@@ -1,0 +1,4362 @@
+---
+  AL: 
+    stations_list: 
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "https://wpba.secureallegiance.com/wpba/WebModule/Donate.aspx?P=TV2016CART&PAGETYPE=PLG&CHECK=nhUzrM%2flt%2fSfUM0ev9xOTr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58f6618f-24b3-4555-89f1-ba5007266ee1"
+        common_name_short: "ATL PBA"
+        pdp: false
+        flagship: "WPBA"
+        callsign: "WPBA"
+        address: "Atlanta, GA"
+        common_name: "WPBA"
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "http://www.mpbonline.org/more/support/"
+        pbs_id: "5598653f-dc4d-4911-9d99-260b3453f6a1"
+        common_name_short: "MPB"
+        pdp: false
+        flagship: "WMPN"
+        callsign: "WMPN"
+        address: "Jackson, MS"
+        common_name: "Mississippi Public Broadcasting"
+      - 
+        membership_url: "https://secure.wnpt.org/"
+        pbs_id: "42559186-b19b-45b5-9861-078ec38bb981"
+        common_name_short: "NPT"
+        pdp: false
+        flagship: "WNPT"
+        callsign: "WNPT"
+        address: "Nashville, TN"
+        common_name: "Nashville Public Television"
+      - 
+        membership_url: "http://www.wfsu.org/donate"
+        pbs_id: "da7db8ae-5c3b-450e-9a25-76aa661eac79"
+        common_name_short: "WFSU"
+        pdp: false
+        flagship: "WFSU"
+        callsign: "WFSU"
+        address: "Tallahassee, FL"
+        common_name: "WFSU"
+      - 
+        membership_url: "http://www.wsre.org/donate/"
+        pbs_id: "fc47f495-57b9-4aea-bb6b-d2ce52b74ea1"
+        common_name_short: "WSRE"
+        pdp: false
+        flagship: "WSRE"
+        callsign: "WSRE"
+        address: "Pensacola, FL"
+        common_name: "WSRE PBS"
+      - 
+        membership_url: "http://wtcitv.org/suppport"
+        pbs_id: "50833393-c4b6-4c79-9d6d-24a7e30dc19e"
+        common_name_short: "WTCI"
+        pdp: false
+        flagship: "WTCI"
+        callsign: "WTCI"
+        address: "Chattanooga, TN"
+        common_name: "WTCI"
+  AK: 
+    stations_list: 
+      - 
+        membership_url: "http://alaskapublic.org/support/"
+        pbs_id: "241f6bfb-7b98-4cbd-af3a-3bf219bdb80f"
+        common_name_short: "AK"
+        pdp: false
+        flagship: "KAKM"
+        callsign: "KAKM"
+        address: "Anchorage, AK"
+        common_name: "Alaska Public Media"
+      - 
+        membership_url: "https://www.alaska.edu/foundation/kuac-give-now/index.xml"
+        pbs_id: "8d23bf48-ba7a-449b-97a4-324117f98238"
+        common_name_short: "KUAC"
+        pdp: false
+        flagship: "KUAC"
+        callsign: "KUAC"
+        address: "Fairbanks, AK"
+        common_name: "KUAC"
+  AS: 
+    stations_list: 
+      - 
+        membership_url: "https://www.kvpt.org/secure/online_membership_form.php"
+        pbs_id: "70f0d0fa-9add-4770-a606-aadd8ef0f775"
+        common_name_short: "KVZK"
+        pdp: false
+        flagship: "KVZK"
+        callsign: "KVZK"
+        address: "Pago Pago, AS"
+        common_name: "KVZK TV"
+  AZ: 
+    stations_list: 
+      - 
+        membership_url: "https://azpbs.org/support/"
+        pbs_id: "6d08b852-2c19-4eb7-9348-a5e15b685357"
+        common_name_short: "ArizonaPBS"
+        pdp: false
+        flagship: "KAET"
+        callsign: "KAET"
+        address: "Phoenix, AZ"
+        common_name: "Arizona PBS"
+      - 
+        membership_url: "https://support.azpm.org/"
+        pbs_id: "3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6"
+        common_name_short: "AZPM"
+        pdp: false
+        flagship: "KUAT"
+        callsign: "KUAT"
+        address: "Tucson, AZ"
+        common_name: "Arizona Public Media"
+      - 
+        membership_url: "https://knme.secureallegiance.com/knme/WebModule/Donate.aspx?P=NEWDONATE&PAGETYPE=PLG&CHECK=6B0XvuMEsuFPRoE1kiSpcK1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "97ba98c8-6deb-47b8-9809-2d1f3cc299bf"
+        common_name_short: "NM PBS"
+        pdp: false
+        flagship: "KNME"
+        callsign: "KNME"
+        address: "Albuquerque, NM"
+        common_name: "NM PBS"
+      - 
+        membership_url: "https://be.vegaspbs.org/donate/mainDonation.php"
+        pbs_id: "ca45083b-e314-4063-bd2e-0d614f01ea43"
+        common_name_short: "Vegas PBS"
+        pdp: false
+        flagship: "KLVX"
+        callsign: "KLVX"
+        address: "Las Vegas, NV"
+        common_name: "Vegas PBS"
+  AR: 
+    stations_list: 
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "http://www.mpbonline.org/more/support/"
+        pbs_id: "5598653f-dc4d-4911-9d99-260b3453f6a1"
+        common_name_short: "MPB"
+        pdp: false
+        flagship: "WMPN"
+        callsign: "WMPN"
+        address: "Jackson, MS"
+        common_name: "Mississippi Public Broadcasting"
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "https://optv.secureallegiance.com/kozk/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "04b9a7e1-c148-41d7-80fc-8304588f5426"
+        common_name_short: "OPT"
+        pdp: false
+        flagship: "KOZK"
+        callsign: "KOZK"
+        address: "Springfield, MO"
+        common_name: "Ozarks Public Television"
+      - 
+        membership_url: "https://secure.etransfer.com/WKNOTV/donate.cfm"
+        pbs_id: "6b3ba9b1-843d-4c44-a8e3-fada6005f081"
+        common_name_short: "WKNO"
+        pdp: false
+        flagship: "WKNO"
+        callsign: "WKNO"
+        address: "Cordova, TN"
+        common_name: "WKNO"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+  CA: 
+    stations_list: 
+      - 
+        membership_url: "http://kixe.org/members-only-page"
+        pbs_id: "327603f6-bcbd-4894-b499-9d02bc13c953"
+        common_name_short: "KIXE"
+        pdp: false
+        flagship: "KIXE"
+        callsign: "KIXE"
+        address: "Redding, CA"
+        common_name: "KIXE"
+      - 
+        membership_url: "https://connect.kpbs.org/donate-pbs"
+        pbs_id: "78ac901f-6484-42ba-a986-71ef34d2cabf"
+        common_name_short: "KPBS"
+        pdp: false
+        flagship: "KPBS"
+        callsign: "KPBS"
+        address: "San Diego, CA"
+        common_name: "KPBS"
+      - 
+        membership_url: "https://kqed.secure.force.com/donate/rc_connect__campaign_designform?id=7011Y000001bA6gQAE&form=00P1Y000010odLdUAI"
+        pbs_id: "1978f5fc-903b-44c5-8db4-76335078ea74"
+        common_name_short: "KQED"
+        pdp: false
+        flagship: "KQED"
+        callsign: "KQED"
+        address: "San Francisco, CA"
+        common_name: "KQED"
+      - 
+        membership_url: "https://kvie.secure.force.com/donate/rc_connect__campaign_designform?id=7010B000000uIrPQAU&form=00P0B00000wHdQNUA0"
+        pbs_id: "4d8fea94-86b8-4663-9c69-4c4cb62257e4"
+        common_name_short: "KVIE"
+        pdp: false
+        flagship: "KVIE"
+        callsign: "KVIE"
+        address: "Sacramento, CA"
+        common_name: "KVIE"
+      - 
+        membership_url: "http://www.pbsnorthcoast.org/single.php?nav=page&id=83"
+        pbs_id: "1b41a3da-967a-40fa-8243-87740f94dbd5"
+        common_name_short: "PBSNC"
+        pdp: false
+        flagship: "KEET"
+        callsign: "KEET"
+        address: "Eureka, CA"
+        common_name: "KEET"
+      - 
+        membership_url: "https://secure3.convio.net/kocetv/site/Donation2?4428.donation=form1&df_id=4428&mfc_pref=T"
+        pbs_id: "057f6e22-7d9c-4fd6-b968-bc17102698de"
+        common_name_short: "PBS SoCal"
+        pdp: false
+        flagship: "KOCE"
+        callsign: "KOCE"
+        address: "Los Angeles, CA"
+        common_name: "PBS SoCal"
+      - 
+        membership_url: "https://donatevalleypbs.org/"
+        pbs_id: "75d9f10c-76dd-4fe5-a2d6-0fc55d75f1b4"
+        common_name_short: "Valley PBS"
+        pdp: false
+        flagship: "KVPT"
+        callsign: "KVPT"
+        address: "Fresno, CA"
+        common_name: "Valley PBS"
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "https://azpbs.org/support/"
+        pbs_id: "6d08b852-2c19-4eb7-9348-a5e15b685357"
+        common_name_short: "ArizonaPBS"
+        pdp: false
+        flagship: "KAET"
+        callsign: "KAET"
+        address: "Phoenix, AZ"
+        common_name: "Arizona PBS"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "http://www.knpb.org/donate/"
+        pbs_id: "6a6a875e-4af4-4e1e-8502-422071b9cdac"
+        common_name_short: "KNPB"
+        pdp: false
+        flagship: "KNPB"
+        callsign: "KNPB"
+        address: "Reno, NV"
+        common_name: "PBS Reno"
+      - 
+        membership_url: "http://www.soptv.org/web-donation/"
+        pbs_id: "0ab83f3a-3210-4904-ac59-c3fc08fa24a9"
+        common_name_short: "SOPTV"
+        pdp: false
+        flagship: "KSYS"
+        callsign: "KSYS"
+        address: "Medford, OR"
+        common_name: "Southern Oregon PBS"
+      - 
+        membership_url: "http://www.klcs.org/support/"
+        pbs_id: "c39fde04-f0c0-4f41-b797-a2c14938238b"
+        common_name_short: "KLCS"
+        pdp: true
+        flagship: "KLCS"
+        callsign: "KLCS"
+        address: "Los Angeles, CA"
+        common_name: "KLCS"
+      - 
+        membership_url: "https://donate.nprstations.org/krcb/"
+        pbs_id: "08e0ed35-f9dc-4758-9d6d-82c81adcacda"
+        common_name_short: "KRCB"
+        pdp: true
+        flagship: "KRCB"
+        callsign: "KRCB"
+        address: "Rohnert Park, CA"
+        common_name: "Northern California Public Media"
+      - 
+        membership_url: "https://kvcr.secureallegiance.com/kvcr/WebModule/Donate.aspx?P=MAINWEBTV2&PAGETYPE=PLG&CHECK=nC/uh0qfpKkDEns3dS0NXL1YhDw50SikSh2nq0qouhg="
+        pbs_id: "d5fc9451-1456-4ea1-9476-4db346756a96"
+        common_name_short: "KVCR"
+        pdp: true
+        flagship: "KVCR"
+        callsign: "KVCR"
+        address: "San Bernardino, CA"
+        common_name: "Empire PBS"
+  CO: 
+    stations_list: 
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "http://kenw.org/kenw-tv-pledge-tv-now"
+        pbs_id: "90a9e431-b5ac-4de4-868f-1f9dbfe8b101"
+        common_name_short: "KENW"
+        pdp: false
+        flagship: "KENW"
+        callsign: "KENW"
+        address: "Portales, NM"
+        common_name: "KENW New Mexico"
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "https://knme.secureallegiance.com/knme/WebModule/Donate.aspx?P=NEWDONATE&PAGETYPE=PLG&CHECK=6B0XvuMEsuFPRoE1kiSpcK1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "97ba98c8-6deb-47b8-9809-2d1f3cc299bf"
+        common_name_short: "NM PBS"
+        pdp: false
+        flagship: "KNME"
+        callsign: "KNME"
+        address: "Albuquerque, NM"
+        common_name: "NM PBS"
+      - 
+        membership_url: "http://www.wyomingpbs.org/support/"
+        pbs_id: "84b31db3-3cd6-442f-b87b-1ec11d54259d"
+        common_name_short: "WyomingPBS"
+        pdp: false
+        flagship: "KCWC"
+        callsign: "KCWC"
+        address: "Riverton, WY"
+        common_name: "Wyoming PBS"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+  CT: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "https://www.thirteen.org/support/donation/join/?s_src=ALOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "80f93f7f-9742-47b8-aa58-0c0ceb866d9f"
+        common_name_short: "THIRTEEN"
+        pdp: false
+        flagship: "WNET"
+        callsign: "WNET"
+        address: "New York, NY"
+        common_name: "THIRTEEN/WNET New York"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "https://wgby.org/support/passportsignup"
+        pbs_id: "b62fa183-78dc-41d7-bd8a-12602304b118"
+        common_name_short: "WGBY"
+        pdp: false
+        flagship: "WGBY"
+        callsign: "WGBY"
+        address: "Springfield, MA"
+        common_name: "WGBY"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+      - 
+        membership_url: "http://www.ripbs.org/support/"
+        pbs_id: "e17b0ab2-e59c-4281-81d3-0aba4db16dc9"
+        common_name_short: "RIPBS"
+        pdp: true
+        flagship: "WSBE"
+        callsign: "WSBE"
+        address: "Providence, RI"
+        common_name: "Rhode Island PBS"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  DE: 
+    stations_list: 
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://support.whyy.org/join.php"
+        pbs_id: "6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed"
+        common_name_short: "WHYY"
+        pdp: false
+        flagship: "WHYY"
+        callsign: "WHYY"
+        address: "Philadelphia, PA"
+        common_name: "WHYY"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+      - 
+        membership_url: "http://www.wlvt.org/donate/"
+        pbs_id: "43e7850f-48a2-4e3e-b045-c880ea935fbd"
+        common_name_short: "PBS 39"
+        pdp: true
+        flagship: "WLVT"
+        callsign: "WLVT"
+        address: "Bethlehem, PA"
+        common_name: "PBS 39"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  DC: 
+    stations_list: 
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "http://www.wvpt.net/donor-level"
+        pbs_id: "de7ba510-9397-405c-9ddb-090cfb0c3df6"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WVPT"
+        callsign: "WVPT"
+        address: "Harrisonburg, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://www.whut.org/home/support-whut-2/donate-to-whut-no-gift/"
+        pbs_id: "722b847a-5e2a-4d14-9429-2d430b10b1ee"
+        common_name_short: "WHUT"
+        pdp: true
+        flagship: "WHUT"
+        callsign: "WHUT"
+        address: "Washington, DC"
+        common_name: "WHUT"
+  FL: 
+    stations_list: 
+      - 
+        membership_url: "http://wedu.org/donate/"
+        pbs_id: "c4ab80c1-ca8c-4a6e-a8b5-c5995919792b"
+        common_name_short: "WEDU"
+        pdp: false
+        flagship: "WEDU"
+        callsign: "WEDU"
+        address: "Tampa, FL"
+        common_name: "WEDU"
+      - 
+        membership_url: "http://www.wfsu.org/donate"
+        pbs_id: "da7db8ae-5c3b-450e-9a25-76aa661eac79"
+        common_name_short: "WFSU"
+        pdp: false
+        flagship: "WFSU"
+        callsign: "WFSU"
+        address: "Tallahassee, FL"
+        common_name: "WFSU"
+      - 
+        membership_url: "https://wgcu.secureallegiance.com/wgcu/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "19aacc3d-896b-4426-b319-ea0082ef6369"
+        common_name_short: "WGCU"
+        pdp: false
+        flagship: "WGCU"
+        callsign: "WGCU"
+        address: "Ft. Myers, FL"
+        common_name: "WGCU PBS"
+      - 
+        membership_url: "https://support.wjct.org/page.aspx?pid=290&bm=2029883100"
+        pbs_id: "5eee712c-8713-4283-8af1-c0ba9d25d6fd"
+        common_name_short: "WJCT"
+        pdp: false
+        flagship: "WJCT"
+        callsign: "WJCT"
+        address: "Jacksonville, FL"
+        common_name: "WJCT"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=5C104D5D-A0DD-4AF5-B717-CAE0D43C8036&source="
+        pbs_id: "b2c0d4c6-4544-4bb3-8d2d-bc803c5d7381"
+        common_name_short: "WPBT"
+        pdp: false
+        flagship: "WPBT"
+        callsign: "WPBT"
+        address: "Miami, FL"
+        common_name: "South Florida PBS"
+      - 
+        membership_url: "http://www.wsre.org/donate/"
+        pbs_id: "fc47f495-57b9-4aea-bb6b-d2ce52b74ea1"
+        common_name_short: "WSRE"
+        pdp: false
+        flagship: "WSRE"
+        callsign: "WSRE"
+        address: "Pensacola, FL"
+        common_name: "WSRE PBS"
+      - 
+        membership_url: "http://wucf.org/support/"
+        pbs_id: "70dc9cfa-54dd-47f1-8039-e518544fd496"
+        common_name_short: "WUCF"
+        pdp: false
+        flagship: "WUCF"
+        callsign: "WUCF"
+        address: "Orlando, FL"
+        common_name: "WUCF"
+      - 
+        membership_url: "https://webpledge.wuft.org/alleg/WebModule/Donate.aspx?P=TVPLDG16&PAGETYPE=PLG&CHECK=EFQrmTh4x7MmLBtZgh2Oim3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "d437f31a-0cda-416a-8357-ea90b21fc866"
+        common_name_short: "WUFT"
+        pdp: false
+        flagship: "WUFT"
+        callsign: "WUFT"
+        address: "Gainesville, FL"
+        common_name: "WUFT"
+      - 
+        membership_url: "http://www.wxel.org/contributions/"
+        pbs_id: "6f553836-7e24-445a-8c3c-cc418aaba9dc"
+        common_name_short: "WXEL"
+        pdp: false
+        flagship: "WXEL"
+        callsign: "WXEL"
+        address: "Boynton Beach, FL"
+        common_name: "WXEL South Florida PBS"
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "http://donate.wlrn.org/"
+        pbs_id: "8f70a678-a636-4dfa-873e-699f0212f78b"
+        common_name_short: "WLRN"
+        pdp: true
+        flagship: "WLRN"
+        callsign: "WLRN"
+        address: "Miami, FL"
+        common_name: "WLRN"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+  GA: 
+    stations_list: 
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "https://wpba.secureallegiance.com/wpba/WebModule/Donate.aspx?P=TV2016CART&PAGETYPE=PLG&CHECK=nhUzrM%2flt%2fSfUM0ev9xOTr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58f6618f-24b3-4555-89f1-ba5007266ee1"
+        common_name_short: "ATL PBA"
+        pdp: false
+        flagship: "WPBA"
+        callsign: "WPBA"
+        address: "Atlanta, GA"
+        common_name: "WPBA"
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "https://etvendowment.thankyou4caring.org/pages/general-donation-form-web"
+        pbs_id: "50ac3de0-09e0-43db-8bb6-d83826fd637c"
+        common_name_short: "SCETV"
+        pdp: false
+        flagship: "WRLK"
+        callsign: "WRLK"
+        address: "Columbia, SC"
+        common_name: "SCETV"
+      - 
+        membership_url: "http://members.unc-tv.org/site/PageServer?pagename=donation_landing"
+        pbs_id: "fa2384b8-9593-4d58-a129-4deb3a1f764a"
+        common_name_short: "UNC-TV"
+        pdp: false
+        flagship: "WUNC"
+        callsign: "WUNC"
+        address: "Research Triangle Park, NC"
+        common_name: "UNC-TV"
+      - 
+        membership_url: "http://www.wfsu.org/donate"
+        pbs_id: "da7db8ae-5c3b-450e-9a25-76aa661eac79"
+        common_name_short: "WFSU"
+        pdp: false
+        flagship: "WFSU"
+        callsign: "WFSU"
+        address: "Tallahassee, FL"
+        common_name: "WFSU"
+      - 
+        membership_url: "https://support.wjct.org/page.aspx?pid=290&bm=2029883100"
+        pbs_id: "5eee712c-8713-4283-8af1-c0ba9d25d6fd"
+        common_name_short: "WJCT"
+        pdp: false
+        flagship: "WJCT"
+        callsign: "WJCT"
+        address: "Jacksonville, FL"
+        common_name: "WJCT"
+      - 
+        membership_url: "http://wtcitv.org/suppport"
+        pbs_id: "50833393-c4b6-4c79-9d6d-24a7e30dc19e"
+        common_name_short: "WTCI"
+        pdp: false
+        flagship: "WTCI"
+        callsign: "WTCI"
+        address: "Chattanooga, TN"
+        common_name: "WTCI"
+  GU: 
+    stations_list: 
+      - 
+        membership_url: "http://www.pbsguam.org/support"
+        pbs_id: "9493af36-fa12-4fcf-bdbe-29c2e9d48894"
+        common_name_short: "PBS Guam"
+        pdp: false
+        flagship: "KGTF"
+        callsign: "KGTF"
+        address: "Barrigada, GU"
+        common_name: "KGTF / PBS Guam"
+  HI: 
+    stations_list: 
+      - 
+        membership_url: "http://pbshawaii.org/support/"
+        pbs_id: "9d8087c6-c29a-4a47-86ee-0db85c3fb2dc"
+        common_name_short: "PBS Hawaii"
+        pdp: false
+        flagship: "KHET"
+        callsign: "KHET"
+        address: "Honolulu, HI"
+        common_name: "PBS Hawai'i"
+  ID: 
+    stations_list: 
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://ksps.secureallegiance.com/ksps/WebModule/Donate.aspx?P=GIVENOW2&PAGETYPE=PLG&CHECK=aCdmojAae0tXY08uazmCpG3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "3c8c7461-f130-483a-9b6c-84dbae163c07"
+        common_name_short: "KSPS"
+        pdp: false
+        flagship: "KSPS"
+        callsign: "KSPS"
+        address: "Spokane, WA"
+        common_name: "KSPS"
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "https://give.opb.org/opb/?s=OAMEGNW180700001"
+        pbs_id: "908d1940-5074-4a1e-b111-169206513fef"
+        common_name_short: "OPB"
+        pdp: false
+        flagship: "KOPB"
+        callsign: "KOPB"
+        address: "Portland, OR"
+        common_name: "KOPB"
+      - 
+        membership_url: "http://www.soptv.org/web-donation/"
+        pbs_id: "0ab83f3a-3210-4904-ac59-c3fc08fa24a9"
+        common_name_short: "SOPTV"
+        pdp: false
+        flagship: "KSYS"
+        callsign: "KSYS"
+        address: "Medford, OR"
+        common_name: "Southern Oregon PBS"
+      - 
+        membership_url: "http://www.wyomingpbs.org/support/"
+        pbs_id: "84b31db3-3cd6-442f-b87b-1ec11d54259d"
+        common_name_short: "WyomingPBS"
+        pdp: false
+        flagship: "KCWC"
+        callsign: "KCWC"
+        address: "Riverton, WY"
+        common_name: "Wyoming PBS"
+      - 
+        membership_url: "https://www.nwpb.org/tvpledge"
+        pbs_id: "3d095c51-58a0-452e-af6d-4812b79c3c04"
+        common_name_short: "NWPB"
+        pdp: true
+        flagship: "KWSU"
+        callsign: "KWSU"
+        address: "Pullman, WA"
+        common_name: "Northwest Public Broadcasting"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+  IL: 
+    stations_list: 
+      - 
+        membership_url: "https://willpledge.org/"
+        pbs_id: "11bd36cd-46d5-4c3a-bdc8-ae497a23c712"
+        common_name_short: "WILL-TV"
+        pdp: false
+        flagship: "WILL"
+        callsign: "WILL"
+        address: "Urbana, IL"
+        common_name: "Illinois Public Media"
+      - 
+        membership_url: "http://www.networkknowledge.tv/pledge"
+        pbs_id: "21900c16-27ab-4528-9466-a6272acff016"
+        common_name_short: "WMEC"
+        pdp: false
+        flagship: "WSEC"
+        callsign: "WSEC"
+        address: "Springfield, IL"
+        common_name: "Network Knowledge"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+      - 
+        membership_url: "https://secure.wttw.com/"
+        pbs_id: "8030a253-4b34-463e-82e2-ec0726e24e58"
+        common_name_short: "WTTW"
+        pdp: false
+        flagship: "WTTW"
+        callsign: "WTTW"
+        address: "Chicago, IL"
+        common_name: "WTTW"
+      - 
+        membership_url: "https://wtvp.secureallegiance.com/wtvp/WebModule/Donate.aspx?P=PLEDGEPH3&PAGETYPE=PLG&CHECK=2IHggXVb%2bSa6iMqJkvkSFa1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "41427091-bd65-483d-bdb5-9a4159a5d93e"
+        common_name_short: "WTVP"
+        pdp: false
+        flagship: "WTVP"
+        callsign: "WTVP"
+        address: "Peoria, IL"
+        common_name: "WTVP"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=06A27B6F-3288-4D78-9FAE-66AB4FCE2E97&source=#/home"
+        pbs_id: "27146fbb-5f51-4924-9e00-bb46e89e18a8"
+        common_name_short: "MilwPBS"
+        pdp: false
+        flagship: "WMVS"
+        callsign: "WMVS"
+        address: "Milwaukee, WI"
+        common_name: "Milwaukee PBS"
+      - 
+        membership_url: "http://www.ninenet.org/support/membership/"
+        pbs_id: "0436e066-85c7-408b-a4fd-5b492ccb5fd8"
+        common_name_short: "Nine"
+        pdp: false
+        flagship: "KETC"
+        callsign: "KETC"
+        address: "St. Louis, MO"
+        common_name: "The Nine Network of Public Media"
+      - 
+        membership_url: "http://wfwa.org/support/pledge-online/"
+        pbs_id: "3f02e9df-66c8-4f3d-8f51-a76c7255a45d"
+        common_name_short: "PBS39"
+        pdp: false
+        flagship: "WFWA"
+        callsign: "WFWA"
+        address: "Fort Wayne, IN"
+        common_name: "PBS Fort Wayne"
+      - 
+        membership_url: "https://secure.wfyi.org/pledge/"
+        pbs_id: "046a9b3c-01b4-42b1-b789-83555437476d"
+        common_name_short: "WFYI"
+        pdp: false
+        flagship: "WFYI"
+        callsign: "WFYI"
+        address: "Indianapolis, IN"
+        common_name: "WFYI"
+      - 
+        membership_url: "http://www.wnin.org/membership"
+        pbs_id: "b7b39443-4f87-4569-85f9-ad0594029964"
+        common_name_short: "WNIN"
+        pdp: false
+        flagship: "WNIN"
+        callsign: "WNIN"
+        address: "Evansville, IN"
+        common_name: "WNIN"
+      - 
+        membership_url: "http://www.wnit.org/donate"
+        pbs_id: "4e7fdf7b-c8dc-4376-8de4-b78ef29edf73"
+        common_name_short: "WNIT"
+        pdp: false
+        flagship: "WNIT"
+        callsign: "WNIT"
+        address: "South Bend, IN"
+        common_name: "WNIT"
+      - 
+        membership_url: "https://wptschedule.org/Donate/Support-Wisconsin/"
+        pbs_id: "a3a25e36-3ba3-40b4-990f-7460511f0127"
+        common_name_short: "WPT"
+        pdp: false
+        flagship: "WPNE"
+        callsign: "WPNE"
+        address: "Madison, WI"
+        common_name: "PBS Wisconsin"
+      - 
+        membership_url: "https://support.indianapublicmedia.org/alleg/WebModule/Donate.aspx?P=WTIUPASSPO&PAGETYPE=PLG&CHECK=5qAv2RA9IAgtU56wi%2bNPDb1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "4e2e0d20-9a95-4d3d-81a7-25e391d9883e"
+        common_name_short: "WTIU"
+        pdp: false
+        flagship: "WTIU"
+        callsign: "WTIU"
+        address: "Bloomington, IN"
+        common_name: "WFIU/WTIU"
+      - 
+        membership_url: "http://wvut.org/support-donate/"
+        pbs_id: "d6e2cccf-df68-47ab-8d8f-2d28ee301ff1"
+        common_name_short: "WVUT"
+        pdp: false
+        flagship: "WVUT"
+        callsign: "WVUT"
+        address: "Vincennes, IN"
+        common_name: "WVUT"
+      - 
+        membership_url: "http://commerce.cashnet.com/weiu2"
+        pbs_id: "85af7dd6-89ae-4fde-9826-79b04c30aaa4"
+        common_name_short: "WEIU"
+        pdp: true
+        flagship: "WEIU"
+        callsign: "WEIU"
+        address: "Charleston, IL"
+        common_name: "WEIU"
+      - 
+        membership_url: "http://www.wqpt.org/support/"
+        pbs_id: "d431813a-086d-4a12-917a-d160f6b5c4c7"
+        common_name_short: "WQPT-TV"
+        pdp: true
+        flagship: "WQPT"
+        callsign: "WQPT"
+        address: "Moline, IL"
+        common_name: "WQPT PBS"
+      - 
+        membership_url: "https://wyin.secureallegiance.com/wyin/WebModule/Donate.aspx?P=WYINWEB&PAGETYPE=PLG&CHECK=aACY7niVPyA7IwNM1Kmg6uzWDeZ%2beA1M"
+        pbs_id: "473411db-09f0-4b27-99a9-c15e827ba9c3"
+        common_name_short: "Lakeshore PBS"
+        pdp: true
+        flagship: "WYIN"
+        callsign: "WYIN"
+        address: "Merrillville, IN"
+        common_name: "Lakeshore PBS"
+  IN: 
+    stations_list: 
+      - 
+        membership_url: "http://wfwa.org/support/pledge-online/"
+        pbs_id: "3f02e9df-66c8-4f3d-8f51-a76c7255a45d"
+        common_name_short: "PBS39"
+        pdp: false
+        flagship: "WFWA"
+        callsign: "WFWA"
+        address: "Fort Wayne, IN"
+        common_name: "PBS Fort Wayne"
+      - 
+        membership_url: "https://secure.wfyi.org/pledge/"
+        pbs_id: "046a9b3c-01b4-42b1-b789-83555437476d"
+        common_name_short: "WFYI"
+        pdp: false
+        flagship: "WFYI"
+        callsign: "WFYI"
+        address: "Indianapolis, IN"
+        common_name: "WFYI"
+      - 
+        membership_url: "https://wipb.secureallegiance.com/wipb/WebModule/Donate.aspx?P=0818PW&PAGETYPE=PLG&CHECK=8KhOn%2fktgEix6prc3yxoWxiCxtaFReuS"
+        pbs_id: "ab7e7061-dee0-4905-bf2c-5acd1888ace0"
+        common_name_short: "WIPB"
+        pdp: false
+        flagship: "WIPB"
+        callsign: "WIPB"
+        address: "Muncie, IN"
+        common_name: "WIPB"
+      - 
+        membership_url: "http://www.wnin.org/membership"
+        pbs_id: "b7b39443-4f87-4569-85f9-ad0594029964"
+        common_name_short: "WNIN"
+        pdp: false
+        flagship: "WNIN"
+        callsign: "WNIN"
+        address: "Evansville, IN"
+        common_name: "WNIN"
+      - 
+        membership_url: "http://www.wnit.org/donate"
+        pbs_id: "4e7fdf7b-c8dc-4376-8de4-b78ef29edf73"
+        common_name_short: "WNIT"
+        pdp: false
+        flagship: "WNIT"
+        callsign: "WNIT"
+        address: "South Bend, IN"
+        common_name: "WNIT"
+      - 
+        membership_url: "https://support.indianapublicmedia.org/alleg/WebModule/Donate.aspx?P=WTIUPASSPO&PAGETYPE=PLG&CHECK=5qAv2RA9IAgtU56wi%2bNPDb1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "4e2e0d20-9a95-4d3d-81a7-25e391d9883e"
+        common_name_short: "WTIU"
+        pdp: false
+        flagship: "WTIU"
+        callsign: "WTIU"
+        address: "Bloomington, IN"
+        common_name: "WFIU/WTIU"
+      - 
+        membership_url: "http://wvut.org/support-donate/"
+        pbs_id: "d6e2cccf-df68-47ab-8d8f-2d28ee301ff1"
+        common_name_short: "WVUT"
+        pdp: false
+        flagship: "WVUT"
+        callsign: "WVUT"
+        address: "Vincennes, IN"
+        common_name: "WVUT"
+      - 
+        membership_url: "https://cet.secureallegiance.com/cet/WebModule/Donate.aspx?P=CETWEB&PAGETYPE=PLG&CHECK=WfC3JhMmZJqa7VhFRwh3BhiCxtaFReuS"
+        pbs_id: "c9f75fe6-8da0-4bcb-a085-531edb49ca89"
+        common_name_short: "CET"
+        pdp: false
+        flagship: "WCET"
+        callsign: "WCET"
+        address: "Cincinnati, OH"
+        common_name: "CET"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=06A27B6F-3288-4D78-9FAE-66AB4FCE2E97&source=#/home"
+        pbs_id: "27146fbb-5f51-4924-9e00-bb46e89e18a8"
+        common_name_short: "MilwPBS"
+        pdp: false
+        flagship: "WMVS"
+        callsign: "WMVS"
+        address: "Milwaukee, WI"
+        common_name: "Milwaukee PBS"
+      - 
+        membership_url: "https://thinktv.secureallegiance.com/wptd/WebModule/Donate.aspx?P=WEBNONPLG&PAGETYPE=PLG&CHECK=yWaYZxSWHb0y7isJLG1Y7q1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "7bad8720-1c01-4189-ad48-4b203e571b94"
+        common_name_short: "ThinkTV"
+        pdp: false
+        flagship: "WPTD"
+        callsign: "WPTD"
+        address: "Dayton, OH"
+        common_name: "ThinkTVNetwork"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=1CF81C27-6E45-460E-883F-01055AE87F3B&source#/home"
+        pbs_id: "95a51146-e569-4607-b48c-6eec67749c2e"
+        common_name_short: "WBGU"
+        pdp: false
+        flagship: "WBGU"
+        callsign: "WBGU"
+        address: "Bowling Green, OH"
+        common_name: "WBGU"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=1CE05B0A-1D5E-40DB-9A05-58EC423CF3B4&source="
+        pbs_id: "2a6939f7-894c-456c-9c1c-56185bd0a3c4"
+        common_name_short: "WGVU"
+        pdp: false
+        flagship: "WGVU"
+        callsign: "WGVU"
+        address: "Grand Rapids, MI"
+        common_name: "WGVU"
+      - 
+        membership_url: "https://willpledge.org/"
+        pbs_id: "11bd36cd-46d5-4c3a-bdc8-ae497a23c712"
+        common_name_short: "WILL-TV"
+        pdp: false
+        flagship: "WILL"
+        callsign: "WILL"
+        address: "Urbana, IL"
+        common_name: "Illinois Public Media"
+      - 
+        membership_url: "http://www.networkknowledge.tv/pledge"
+        pbs_id: "21900c16-27ab-4528-9466-a6272acff016"
+        common_name_short: "WMEC"
+        pdp: false
+        flagship: "WSEC"
+        callsign: "WSEC"
+        address: "Springfield, IL"
+        common_name: "Network Knowledge"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+      - 
+        membership_url: "https://secure.wttw.com/"
+        pbs_id: "8030a253-4b34-463e-82e2-ec0726e24e58"
+        common_name_short: "WTTW"
+        pdp: false
+        flagship: "WTTW"
+        callsign: "WTTW"
+        address: "Chicago, IL"
+        common_name: "WTTW"
+      - 
+        membership_url: "https://wyin.secureallegiance.com/wyin/WebModule/Donate.aspx?P=WYINWEB&PAGETYPE=PLG&CHECK=aACY7niVPyA7IwNM1Kmg6uzWDeZ%2beA1M"
+        pbs_id: "473411db-09f0-4b27-99a9-c15e827ba9c3"
+        common_name_short: "Lakeshore PBS"
+        pdp: true
+        flagship: "WYIN"
+        callsign: "WYIN"
+        address: "Merrillville, IN"
+        common_name: "Lakeshore PBS"
+      - 
+        membership_url: "http://commerce.cashnet.com/weiu2"
+        pbs_id: "85af7dd6-89ae-4fde-9826-79b04c30aaa4"
+        common_name_short: "WEIU"
+        pdp: true
+        flagship: "WEIU"
+        callsign: "WEIU"
+        address: "Charleston, IL"
+        common_name: "WEIU"
+      - 
+        membership_url: "http://www.wkyupbs.org/pledge.html"
+        pbs_id: "c7ccd576-ca7b-4129-903b-d893ffea3260"
+        common_name_short: "WKYU"
+        pdp: true
+        flagship: "WKYU"
+        callsign: "WKYU"
+        address: "Bowling Green, KY"
+        common_name: "WKU PBS"
+  IA: 
+    stations_list: 
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "https://www.tpt.org/give/?pledge_code=AMW170901PBS"
+        pbs_id: "3742dff1-85cd-42d1-ab39-7ffa8ef10211"
+        common_name_short: "TPT"
+        pdp: false
+        flagship: "KTCA"
+        callsign: "KTCA"
+        address: "St. Paul, MN"
+        common_name: "TPT | Twin Cities PBS"
+      - 
+        membership_url: "http://www.networkknowledge.tv/pledge"
+        pbs_id: "21900c16-27ab-4528-9466-a6272acff016"
+        common_name_short: "WMEC"
+        pdp: false
+        flagship: "WSEC"
+        callsign: "WSEC"
+        address: "Springfield, IL"
+        common_name: "Network Knowledge"
+      - 
+        membership_url: "https://wptschedule.org/Donate/Support-Wisconsin/"
+        pbs_id: "a3a25e36-3ba3-40b4-990f-7460511f0127"
+        common_name_short: "WPT"
+        pdp: false
+        flagship: "WPNE"
+        callsign: "WPNE"
+        address: "Madison, WI"
+        common_name: "PBS Wisconsin"
+      - 
+        membership_url: "https://support.ksmq.org/index.php/ways-to-donate-in-pledge"
+        pbs_id: "a8919c6f-2476-4e73-9f94-c3f1266e85b3"
+        common_name_short: "KSMQ"
+        pdp: true
+        flagship: "KSMQ"
+        callsign: "KSMQ"
+        address: "Austin, MN"
+        common_name: "KSMQ"
+      - 
+        membership_url: "http://www.wqpt.org/support/"
+        pbs_id: "d431813a-086d-4a12-917a-d160f6b5c4c7"
+        common_name_short: "WQPT-TV"
+        pdp: true
+        flagship: "WQPT"
+        callsign: "WQPT"
+        address: "Moline, IL"
+        common_name: "WQPT PBS"
+  KS: 
+    stations_list: 
+      - 
+        membership_url: "https://donatenow.networkforgood.org/kpts"
+        pbs_id: "f8cd0e67-9e8d-464d-aaf1-f7874f5f6ae6"
+        common_name_short: "KPTS"
+        pdp: false
+        flagship: "KPTS"
+        callsign: "KPTS"
+        address: "Wichita, KS"
+        common_name: "KPTS"
+      - 
+        membership_url: "http://www.ktwu.org/members/donate/"
+        pbs_id: "164fbea8-3e32-44f3-a701-20ad6de50b72"
+        common_name_short: "KTWU"
+        pdp: false
+        flagship: "KTWU"
+        callsign: "KTWU"
+        address: "Topeka, KS"
+        common_name: "KTWU"
+      - 
+        membership_url: "http://www.shptv.org/support/donation-page/"
+        pbs_id: "42bf8024-6bd7-4a3f-b945-00a9ae88e8f1"
+        common_name_short: "SHPTV"
+        pdp: false
+        flagship: "KOOD"
+        callsign: "KOOD"
+        address: "Bunker Hill, KS"
+        common_name: "Smoky Hills PBS"
+      - 
+        membership_url: "http://www.kcpt.org/donate"
+        pbs_id: "b053c129-9506-40e4-810a-7b610b62e58d"
+        common_name_short: "KCPT"
+        pdp: false
+        flagship: "KCPT"
+        callsign: "KCPT"
+        address: "Kansas City, MO"
+        common_name: "Kansas City PBS"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "https://optv.secureallegiance.com/kozk/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "04b9a7e1-c148-41d7-80fc-8304588f5426"
+        common_name_short: "OPT"
+        pdp: false
+        flagship: "KOZK"
+        callsign: "KOZK"
+        address: "Springfield, MO"
+        common_name: "Ozarks Public Television"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+  KY: 
+    stations_list: 
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "http://www.blueridgepbs.org/index.php/give/pledge-online"
+        pbs_id: "8995ff93-ac9d-4ece-8fe3-ae355d05f380"
+        common_name_short: "Blue Ridge"
+        pdp: false
+        flagship: "WBRA"
+        callsign: "WBRA"
+        address: "Roanoke, VA"
+        common_name: "Blue Ridge PBS"
+      - 
+        membership_url: "https://cet.secureallegiance.com/cet/WebModule/Donate.aspx?P=CETWEB&PAGETYPE=PLG&CHECK=WfC3JhMmZJqa7VhFRwh3BhiCxtaFReuS"
+        pbs_id: "c9f75fe6-8da0-4bcb-a085-531edb49ca89"
+        common_name_short: "CET"
+        pdp: false
+        flagship: "WCET"
+        callsign: "WCET"
+        address: "Cincinnati, OH"
+        common_name: "CET"
+      - 
+        membership_url: "http://www.EastTennesseePBS.org/donate/"
+        pbs_id: "c65964f8-23e4-4080-9bd0-7d8e66af698d"
+        common_name_short: "etpbs"
+        pdp: false
+        flagship: "WETP"
+        callsign: "WETP"
+        address: "Knoxville, TN"
+        common_name: "East Tennessee PBS"
+      - 
+        membership_url: "https://secure.wnpt.org/"
+        pbs_id: "42559186-b19b-45b5-9861-078ec38bb981"
+        common_name_short: "NPT"
+        pdp: false
+        flagship: "WNPT"
+        callsign: "WNPT"
+        address: "Nashville, TN"
+        common_name: "Nashville Public Television"
+      - 
+        membership_url: "https://thinktv.secureallegiance.com/wptd/WebModule/Donate.aspx?P=WEBNONPLG&PAGETYPE=PLG&CHECK=yWaYZxSWHb0y7isJLG1Y7q1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "7bad8720-1c01-4189-ad48-4b203e571b94"
+        common_name_short: "ThinkTV"
+        pdp: false
+        flagship: "WPTD"
+        callsign: "WPTD"
+        address: "Dayton, OH"
+        common_name: "ThinkTVNetwork"
+      - 
+        membership_url: "https://be.wcte.org/donate/index.php"
+        pbs_id: "f551ddb2-28d0-45ba-a5e6-33daa55990f6"
+        common_name_short: "WCTE"
+        pdp: false
+        flagship: "WCTE"
+        callsign: "WCTE"
+        address: "Cookeville, TN"
+        common_name: "WCTE"
+      - 
+        membership_url: "http://wljt.org/donate.php"
+        pbs_id: "0afd0cce-f52c-4e96-baac-f05ffdf9560c"
+        common_name_short: "WLJT"
+        pdp: false
+        flagship: "WLJT"
+        callsign: "WLJT"
+        address: "Martin, TN"
+        common_name: "West TN PBS"
+      - 
+        membership_url: "http://www.wnin.org/membership"
+        pbs_id: "b7b39443-4f87-4569-85f9-ad0594029964"
+        common_name_short: "WNIN"
+        pdp: false
+        flagship: "WNIN"
+        callsign: "WNIN"
+        address: "Evansville, IN"
+        common_name: "WNIN"
+      - 
+        membership_url: "http://wosu.org/pledge"
+        pbs_id: "ba216f45-d78e-41cf-a23e-2026f3c99a5a"
+        common_name_short: "WOSU"
+        pdp: false
+        flagship: "WOSU"
+        callsign: "WOSU"
+        address: "Columbus, OH"
+        common_name: "WOSU"
+      - 
+        membership_url: "http://woub.org/support"
+        pbs_id: "4dc91f2b-0076-46d9-ba82-0c9130cde12c"
+        common_name_short: "WOUB"
+        pdp: false
+        flagship: "WOUB"
+        callsign: "WOUB"
+        address: "Athens, OH"
+        common_name: "WOUB"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+      - 
+        membership_url: "https://secure.wvpublic.org/donate/"
+        pbs_id: "f36a8eaa-cc11-4e0d-a3c1-638b9ebd3023"
+        common_name_short: "WVPB"
+        pdp: false
+        flagship: "WVPB"
+        callsign: "WVPB"
+        address: "Charleston, WV"
+        common_name: "West Virginia Public Broadcasting"
+      - 
+        membership_url: "http://www.wkyupbs.org/pledge.html"
+        pbs_id: "c7ccd576-ca7b-4129-903b-d893ffea3260"
+        common_name_short: "WKYU"
+        pdp: true
+        flagship: "WKYU"
+        callsign: "WKYU"
+        address: "Bowling Green, KY"
+        common_name: "WKU PBS"
+  LA: 
+    stations_list: 
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "http://www.wyes.org/support/donate-now/"
+        pbs_id: "6c0e9c73-3ad2-45c6-9741-1aa36878006a"
+        common_name_short: "WYES"
+        pdp: false
+        flagship: "WYES"
+        callsign: "WYES"
+        address: "New Orleans, LA"
+        common_name: "WYES"
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "http://www.kera.org/donate/"
+        pbs_id: "b3291387-78a4-41e1-beb0-da2f61a96a3e"
+        common_name_short: "KERA"
+        pdp: false
+        flagship: "KERA"
+        callsign: "KERA"
+        address: "Dallas, TX"
+        common_name: "KERA"
+      - 
+        membership_url: "http://www.mpbonline.org/more/support/"
+        pbs_id: "5598653f-dc4d-4911-9d99-260b3453f6a1"
+        common_name_short: "MPB"
+        pdp: false
+        flagship: "WMPN"
+        callsign: "WMPN"
+        address: "Jackson, MS"
+        common_name: "Mississippi Public Broadcasting"
+  ME: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=ADF0CB77-2EF2-4CD5-A73E-6879D1CB6CFA&source="
+        pbs_id: "48bc2487-14e0-4875-a893-58a0b06ec29e"
+        common_name_short: "MEPUBLIC"
+        pdp: false
+        flagship: "WCBB"
+        callsign: "WCBB"
+        address: "Lewiston, ME"
+        common_name: "Maine Public Broadcasting"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "http://mountainlake.org/donate"
+        pbs_id: "bf21732a-f52f-46ca-bbb6-4ae9663a94bf"
+        common_name_short: "MLPBS"
+        pdp: false
+        flagship: "WCFE"
+        callsign: "WCFE"
+        address: "Plattsburgh, NY"
+        common_name: "Mountain Lake PBS"
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.vermontpbs.org/donate/"
+        pbs_id: "3bef3c0b-a9c5-4585-ab56-29b462da5c7c"
+        common_name_short: "VTPBS"
+        pdp: false
+        flagship: "WETK"
+        callsign: "WETK"
+        address: "Colchester, VT"
+        common_name: "Vermont PBS"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+  MD: 
+    stations_list: 
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "https://www.thirteen.org/support/donation/join/?s_src=ALOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "80f93f7f-9742-47b8-aa58-0c0ceb866d9f"
+        common_name_short: "THIRTEEN"
+        pdp: false
+        flagship: "WNET"
+        callsign: "WNET"
+        address: "New York, NY"
+        common_name: "THIRTEEN/WNET New York"
+      - 
+        membership_url: "http://www.wvpt.net/donor-level"
+        pbs_id: "de7ba510-9397-405c-9ddb-090cfb0c3df6"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WVPT"
+        callsign: "WVPT"
+        address: "Harrisonburg, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://members.whro.org/pledge.php?technique=PBS.org%20Online%20Donations"
+        pbs_id: "47568125-b3c7-4f5f-8c35-d27027113102"
+        common_name_short: "WHRO"
+        pdp: false
+        flagship: "WHRO"
+        callsign: "WHRO"
+        address: "Norfolk, VA"
+        common_name: "WHRO"
+      - 
+        membership_url: "https://support.whyy.org/join.php"
+        pbs_id: "6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed"
+        common_name_short: "WHYY"
+        pdp: false
+        flagship: "WHYY"
+        callsign: "WHYY"
+        address: "Philadelphia, PA"
+        common_name: "WHYY"
+      - 
+        membership_url: "http://www.witf.org/support/give-now.php"
+        pbs_id: "6b45b1e5-671e-439a-8673-ad21a5e56f32"
+        common_name_short: "WITF"
+        pdp: false
+        flagship: "WITF"
+        callsign: "WITF"
+        address: "Harrisburg, PA"
+        common_name: "WITF"
+      - 
+        membership_url: "https://www.wqed.org/donate"
+        pbs_id: "9f860866-5985-487e-8191-0a2c49d5d6bb"
+        common_name_short: "WQED"
+        pdp: false
+        flagship: "WQED"
+        callsign: "WQED"
+        address: "Pittsburgh, PA"
+        common_name: "WQED"
+      - 
+        membership_url: "https://secure.wvpublic.org/donate/"
+        pbs_id: "f36a8eaa-cc11-4e0d-a3c1-638b9ebd3023"
+        common_name_short: "WVPB"
+        pdp: false
+        flagship: "WVPB"
+        callsign: "WVPB"
+        address: "Charleston, WV"
+        common_name: "West Virginia Public Broadcasting"
+      - 
+        membership_url: "https://www.whut.org/home/support-whut-2/donate-to-whut-no-gift/"
+        pbs_id: "722b847a-5e2a-4d14-9429-2d430b10b1ee"
+        common_name_short: "WHUT"
+        pdp: true
+        flagship: "WHUT"
+        callsign: "WHUT"
+        address: "Washington, DC"
+        common_name: "WHUT"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  MA: 
+    stations_list: 
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "https://wgby.org/support/passportsignup"
+        pbs_id: "b62fa183-78dc-41d7-bd8a-12602304b118"
+        common_name_short: "WGBY"
+        pdp: false
+        flagship: "WGBY"
+        callsign: "WGBY"
+        address: "Springfield, MA"
+        common_name: "WGBY"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.vermontpbs.org/donate/"
+        pbs_id: "3bef3c0b-a9c5-4585-ab56-29b462da5c7c"
+        common_name_short: "VTPBS"
+        pdp: false
+        flagship: "WETK"
+        callsign: "WETK"
+        address: "Colchester, VT"
+        common_name: "Vermont PBS"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=45C01C40-9586-41A7-9C07-57FAE6D674B3&source="
+        pbs_id: "0777611a-56f1-4668-8094-932ae7498998"
+        common_name_short: "WMHT"
+        pdp: false
+        flagship: "WMHT"
+        callsign: "WMHT"
+        address: "Troy, NY"
+        common_name: "WMHT"
+      - 
+        membership_url: "http://www.ripbs.org/support/"
+        pbs_id: "e17b0ab2-e59c-4281-81d3-0aba4db16dc9"
+        common_name_short: "RIPBS"
+        pdp: true
+        flagship: "WSBE"
+        callsign: "WSBE"
+        address: "Providence, RI"
+        common_name: "Rhode Island PBS"
+  MI: 
+    stations_list: 
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "http://donate.deltabroadcasting.org"
+        pbs_id: "d94cacc2-0123-4850-a15c-d5c4e78310f0"
+        common_name_short: "Q-TV"
+        pdp: false
+        flagship: "WDCQ"
+        callsign: "WDCQ"
+        address: "University Center, MI"
+        common_name: "Delta Broadcasting"
+      - 
+        membership_url: "https://wcmu.org/donate/"
+        pbs_id: "e435c068-30ee-4296-a9f0-58a561ea9487"
+        common_name_short: "WCMU"
+        pdp: false
+        flagship: "WCMU"
+        callsign: "WCMU"
+        address: "Mt. Pleasant, MI"
+        common_name: "WCMU"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=1CE05B0A-1D5E-40DB-9A05-58EC423CF3B4&source="
+        pbs_id: "2a6939f7-894c-456c-9c1c-56185bd0a3c4"
+        common_name_short: "WGVU"
+        pdp: false
+        flagship: "WGVU"
+        callsign: "WGVU"
+        address: "Grand Rapids, MI"
+        common_name: "WGVU"
+      - 
+        membership_url: "https://support.wkar.org/allegpublic/WebModule/Donate.aspx?P=PBS&PAGETYPE=PLG&CHECK=ySwuZm36DG0VQycLjeawDdW0piuR9ZMb&utm_source=PBS&utm_campaign=P0318"
+        pbs_id: "357a5517-94ea-409b-8985-f9dc57c82b5f"
+        common_name_short: "WKAR"
+        pdp: false
+        flagship: "WKAR"
+        callsign: "WKAR"
+        address: "East Lansing, MI"
+        common_name: "WKAR"
+      - 
+        membership_url: "https://wnmutv.nmu.edu/support/"
+        pbs_id: "a3abb950-c4d6-43b8-9299-94556c0ad751"
+        common_name_short: "WNMU"
+        pdp: false
+        flagship: "WNMU"
+        callsign: "WNMU"
+        address: "Marquette, MI"
+        common_name: "WNMU"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=1CF81C27-6E45-460E-883F-01055AE87F3B&source#/home"
+        pbs_id: "95a51146-e569-4607-b48c-6eec67749c2e"
+        common_name_short: "WBGU"
+        pdp: false
+        flagship: "WBGU"
+        callsign: "WBGU"
+        address: "Bowling Green, OH"
+        common_name: "WBGU"
+      - 
+        membership_url: "https://www.wdse.org/support"
+        pbs_id: "38c2df8a-4e7e-4193-8cc6-8704059cbb1a"
+        common_name_short: "WDSE"
+        pdp: false
+        flagship: "WDSE"
+        callsign: "WDSE"
+        address: "Duluth, MN"
+        common_name: "WDSE"
+      - 
+        membership_url: "https://wgte.secureallegiance.com/wgte/WebModule/Donate.aspx?P=WEBAUG18&PAGETYPE=PLG&CHECK=nZbhz7JiDUoIiPrDJqgo6W3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "2bff28d0-08be-43a9-9dc0-6d3584e278d6"
+        common_name_short: "WGTE"
+        pdp: false
+        flagship: "WGTE"
+        callsign: "WGTE"
+        address: "Toledo, OH"
+        common_name: "WGTE"
+      - 
+        membership_url: "http://www.wnit.org/donate"
+        pbs_id: "4e7fdf7b-c8dc-4376-8de4-b78ef29edf73"
+        common_name_short: "WNIT"
+        pdp: false
+        flagship: "WNIT"
+        callsign: "WNIT"
+        address: "South Bend, IN"
+        common_name: "WNIT"
+      - 
+        membership_url: "https://wptschedule.org/Donate/Support-Wisconsin/"
+        pbs_id: "a3a25e36-3ba3-40b4-990f-7460511f0127"
+        common_name_short: "WPT"
+        pdp: false
+        flagship: "WPNE"
+        callsign: "WPNE"
+        address: "Madison, WI"
+        common_name: "PBS Wisconsin"
+      - 
+        membership_url: "https://secure.wttw.com/"
+        pbs_id: "8030a253-4b34-463e-82e2-ec0726e24e58"
+        common_name_short: "WTTW"
+        pdp: false
+        flagship: "WTTW"
+        callsign: "WTTW"
+        address: "Chicago, IL"
+        common_name: "WTTW"
+  MN: 
+    stations_list: 
+      - 
+        membership_url: "https://lptv.org/?donate=1"
+        pbs_id: "bb77b7f7-78ec-4134-aa62-3902aeca6169"
+        common_name_short: "LPTV"
+        pdp: false
+        flagship: "KAWE"
+        callsign: "KAWE"
+        address: "Bemidji, MN"
+        common_name: "Lakeland PBS"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "https://www.tpt.org/give/?pledge_code=AMW170901PBS"
+        pbs_id: "3742dff1-85cd-42d1-ab39-7ffa8ef10211"
+        common_name_short: "TPT"
+        pdp: false
+        flagship: "KTCA"
+        callsign: "KTCA"
+        address: "St. Paul, MN"
+        common_name: "TPT | Twin Cities PBS"
+      - 
+        membership_url: "https://www.wdse.org/support"
+        pbs_id: "38c2df8a-4e7e-4193-8cc6-8704059cbb1a"
+        common_name_short: "WDSE"
+        pdp: false
+        flagship: "WDSE"
+        callsign: "WDSE"
+        address: "Duluth, MN"
+        common_name: "WDSE"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "http://www.ninenet.org/support/membership/"
+        pbs_id: "0436e066-85c7-408b-a4fd-5b492ccb5fd8"
+        common_name_short: "Nine"
+        pdp: false
+        flagship: "KETC"
+        callsign: "KETC"
+        address: "St. Louis, MO"
+        common_name: "The Nine Network of Public Media"
+      - 
+        membership_url: "http://www.prairiepublic.org/support/"
+        pbs_id: "59cb0666-d4b9-49a8-9738-e84f5e9392f7"
+        common_name_short: "Prairie Public"
+        pdp: false
+        flagship: "KFME"
+        callsign: "KFME"
+        address: "Fargo, ND"
+        common_name: "Prairie Public"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "https://wptschedule.org/Donate/Support-Wisconsin/"
+        pbs_id: "a3a25e36-3ba3-40b4-990f-7460511f0127"
+        common_name_short: "WPT"
+        pdp: false
+        flagship: "WPNE"
+        callsign: "WPNE"
+        address: "Madison, WI"
+        common_name: "PBS Wisconsin"
+      - 
+        membership_url: "https://support.ksmq.org/index.php/ways-to-donate-in-pledge"
+        pbs_id: "a8919c6f-2476-4e73-9f94-c3f1266e85b3"
+        common_name_short: "KSMQ"
+        pdp: true
+        flagship: "KSMQ"
+        callsign: "KSMQ"
+        address: "Austin, MN"
+        common_name: "KSMQ"
+  MS: 
+    stations_list: 
+      - 
+        membership_url: "http://www.mpbonline.org/more/support/"
+        pbs_id: "5598653f-dc4d-4911-9d99-260b3453f6a1"
+        common_name_short: "MPB"
+        pdp: false
+        flagship: "WMPN"
+        callsign: "WMPN"
+        address: "Jackson, MS"
+        common_name: "Mississippi Public Broadcasting"
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "https://secure.etransfer.com/WKNOTV/donate.cfm"
+        pbs_id: "6b3ba9b1-843d-4c44-a8e3-fada6005f081"
+        common_name_short: "WKNO"
+        pdp: false
+        flagship: "WKNO"
+        callsign: "WKNO"
+        address: "Cordova, TN"
+        common_name: "WKNO"
+      - 
+        membership_url: "http://www.wsre.org/donate/"
+        pbs_id: "fc47f495-57b9-4aea-bb6b-d2ce52b74ea1"
+        common_name_short: "WSRE"
+        pdp: false
+        flagship: "WSRE"
+        callsign: "WSRE"
+        address: "Pensacola, FL"
+        common_name: "WSRE PBS"
+      - 
+        membership_url: "http://www.wyes.org/support/donate-now/"
+        pbs_id: "6c0e9c73-3ad2-45c6-9741-1aa36878006a"
+        common_name_short: "WYES"
+        pdp: false
+        flagship: "WYES"
+        callsign: "WYES"
+        address: "New Orleans, LA"
+        common_name: "WYES"
+  MO: 
+    stations_list: 
+      - 
+        membership_url: "http://www.kcpt.org/donate"
+        pbs_id: "b053c129-9506-40e4-810a-7b610b62e58d"
+        common_name_short: "KCPT"
+        pdp: false
+        flagship: "KCPT"
+        callsign: "KCPT"
+        address: "Kansas City, MO"
+        common_name: "Kansas City PBS"
+      - 
+        membership_url: "https://pbspassport.force.com/passport/DonateNow?stn=KMOS"
+        pbs_id: "7dd0e811-0ad6-4a39-a579-f2cbb20d9800"
+        common_name_short: "KMOS"
+        pdp: false
+        flagship: "KMOS"
+        callsign: "KMOS"
+        address: "Warrensburg, MO"
+        common_name: "KMOS"
+      - 
+        membership_url: "http://www.ninenet.org/support/membership/"
+        pbs_id: "0436e066-85c7-408b-a4fd-5b492ccb5fd8"
+        common_name_short: "Nine"
+        pdp: false
+        flagship: "KETC"
+        callsign: "KETC"
+        address: "St. Louis, MO"
+        common_name: "The Nine Network of Public Media"
+      - 
+        membership_url: "https://optv.secureallegiance.com/kozk/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "04b9a7e1-c148-41d7-80fc-8304588f5426"
+        common_name_short: "OPT"
+        pdp: false
+        flagship: "KOZK"
+        callsign: "KOZK"
+        address: "Springfield, MO"
+        common_name: "Ozarks Public Television"
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "http://www.ktwu.org/members/donate/"
+        pbs_id: "164fbea8-3e32-44f3-a701-20ad6de50b72"
+        common_name_short: "KTWU"
+        pdp: false
+        flagship: "KTWU"
+        callsign: "KTWU"
+        address: "Topeka, KS"
+        common_name: "KTWU"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://secure.etransfer.com/WKNOTV/donate.cfm"
+        pbs_id: "6b3ba9b1-843d-4c44-a8e3-fada6005f081"
+        common_name_short: "WKNO"
+        pdp: false
+        flagship: "WKNO"
+        callsign: "WKNO"
+        address: "Cordova, TN"
+        common_name: "WKNO"
+      - 
+        membership_url: "http://www.networkknowledge.tv/pledge"
+        pbs_id: "21900c16-27ab-4528-9466-a6272acff016"
+        common_name_short: "WMEC"
+        pdp: false
+        flagship: "WSEC"
+        callsign: "WSEC"
+        address: "Springfield, IL"
+        common_name: "Network Knowledge"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+  MT: 
+    stations_list: 
+      - 
+        membership_url: "http://www.montanapbs.org/support"
+        pbs_id: "e588e03b-d9c4-4988-aba1-94a3b98e88c2"
+        common_name_short: "Montana PBS"
+        pdp: false
+        flagship: "KUSM"
+        callsign: "KUSM"
+        address: "Bozeman, MT"
+        common_name: "Montana PBS"
+      - 
+        membership_url: "https://azpbs.org/support/"
+        pbs_id: "6d08b852-2c19-4eb7-9348-a5e15b685357"
+        common_name_short: "ArizonaPBS"
+        pdp: false
+        flagship: "KAET"
+        callsign: "KAET"
+        address: "Phoenix, AZ"
+        common_name: "Arizona PBS"
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://ksps.secureallegiance.com/ksps/WebModule/Donate.aspx?P=GIVENOW2&PAGETYPE=PLG&CHECK=aCdmojAae0tXY08uazmCpG3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "3c8c7461-f130-483a-9b6c-84dbae163c07"
+        common_name_short: "KSPS"
+        pdp: false
+        flagship: "KSPS"
+        callsign: "KSPS"
+        address: "Spokane, WA"
+        common_name: "KSPS"
+      - 
+        membership_url: "http://www.prairiepublic.org/support/"
+        pbs_id: "59cb0666-d4b9-49a8-9738-e84f5e9392f7"
+        common_name_short: "Prairie Public"
+        pdp: false
+        flagship: "KFME"
+        callsign: "KFME"
+        address: "Fargo, ND"
+        common_name: "Prairie Public"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "https://www.nwpb.org/tvpledge"
+        pbs_id: "3d095c51-58a0-452e-af6d-4812b79c3c04"
+        common_name_short: "NWPB"
+        pdp: true
+        flagship: "KWSU"
+        callsign: "KWSU"
+        address: "Pullman, WA"
+        common_name: "Northwest Public Broadcasting"
+  NE: 
+    stations_list: 
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://donatenow.networkforgood.org/kpts"
+        pbs_id: "f8cd0e67-9e8d-464d-aaf1-f7874f5f6ae6"
+        common_name_short: "KPTS"
+        pdp: false
+        flagship: "KPTS"
+        callsign: "KPTS"
+        address: "Wichita, KS"
+        common_name: "KPTS"
+      - 
+        membership_url: "http://www.ktwu.org/members/donate/"
+        pbs_id: "164fbea8-3e32-44f3-a701-20ad6de50b72"
+        common_name_short: "KTWU"
+        pdp: false
+        flagship: "KTWU"
+        callsign: "KTWU"
+        address: "Topeka, KS"
+        common_name: "KTWU"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "http://www.shptv.org/support/donation-page/"
+        pbs_id: "42bf8024-6bd7-4a3f-b945-00a9ae88e8f1"
+        common_name_short: "SHPTV"
+        pdp: false
+        flagship: "KOOD"
+        callsign: "KOOD"
+        address: "Bunker Hill, KS"
+        common_name: "Smoky Hills PBS"
+      - 
+        membership_url: "http://www.wyomingpbs.org/support/"
+        pbs_id: "84b31db3-3cd6-442f-b87b-1ec11d54259d"
+        common_name_short: "WyomingPBS"
+        pdp: false
+        flagship: "KCWC"
+        callsign: "KCWC"
+        address: "Riverton, WY"
+        common_name: "Wyoming PBS"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+  NV: 
+    stations_list: 
+      - 
+        membership_url: "http://www.knpb.org/donate/"
+        pbs_id: "6a6a875e-4af4-4e1e-8502-422071b9cdac"
+        common_name_short: "KNPB"
+        pdp: false
+        flagship: "KNPB"
+        callsign: "KNPB"
+        address: "Reno, NV"
+        common_name: "PBS Reno"
+      - 
+        membership_url: "https://be.vegaspbs.org/donate/mainDonation.php"
+        pbs_id: "ca45083b-e314-4063-bd2e-0d614f01ea43"
+        common_name_short: "Vegas PBS"
+        pdp: false
+        flagship: "KLVX"
+        callsign: "KLVX"
+        address: "Las Vegas, NV"
+        common_name: "Vegas PBS"
+      - 
+        membership_url: "https://azpbs.org/support/"
+        pbs_id: "6d08b852-2c19-4eb7-9348-a5e15b685357"
+        common_name_short: "ArizonaPBS"
+        pdp: false
+        flagship: "KAET"
+        callsign: "KAET"
+        address: "Phoenix, AZ"
+        common_name: "Arizona PBS"
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "https://secure3.convio.net/kocetv/site/Donation2?4428.donation=form1&df_id=4428&mfc_pref=T"
+        pbs_id: "057f6e22-7d9c-4fd6-b968-bc17102698de"
+        common_name_short: "PBS SoCal"
+        pdp: false
+        flagship: "KOCE"
+        callsign: "KOCE"
+        address: "Los Angeles, CA"
+        common_name: "PBS SoCal"
+  NH: 
+    stations_list: 
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=ADF0CB77-2EF2-4CD5-A73E-6879D1CB6CFA&source="
+        pbs_id: "48bc2487-14e0-4875-a893-58a0b06ec29e"
+        common_name_short: "MEPUBLIC"
+        pdp: false
+        flagship: "WCBB"
+        callsign: "WCBB"
+        address: "Lewiston, ME"
+        common_name: "Maine Public Broadcasting"
+      - 
+        membership_url: "http://mountainlake.org/donate"
+        pbs_id: "bf21732a-f52f-46ca-bbb6-4ae9663a94bf"
+        common_name_short: "MLPBS"
+        pdp: false
+        flagship: "WCFE"
+        callsign: "WCFE"
+        address: "Plattsburgh, NY"
+        common_name: "Mountain Lake PBS"
+      - 
+        membership_url: "https://etvendowment.thankyou4caring.org/pages/general-donation-form-web"
+        pbs_id: "50ac3de0-09e0-43db-8bb6-d83826fd637c"
+        common_name_short: "SCETV"
+        pdp: false
+        flagship: "WRLK"
+        callsign: "WRLK"
+        address: "Columbia, SC"
+        common_name: "SCETV"
+      - 
+        membership_url: "https://www.vermontpbs.org/donate/"
+        pbs_id: "3bef3c0b-a9c5-4585-ab56-29b462da5c7c"
+        common_name_short: "VTPBS"
+        pdp: false
+        flagship: "WETK"
+        callsign: "WETK"
+        address: "Colchester, VT"
+        common_name: "Vermont PBS"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "https://wgby.org/support/passportsignup"
+        pbs_id: "b62fa183-78dc-41d7-bd8a-12602304b118"
+        common_name_short: "WGBY"
+        pdp: false
+        flagship: "WGBY"
+        callsign: "WGBY"
+        address: "Springfield, MA"
+        common_name: "WGBY"
+  NJ: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "https://www.thirteen.org/support/donation/join/?s_src=ALOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "80f93f7f-9742-47b8-aa58-0c0ceb866d9f"
+        common_name_short: "THIRTEEN"
+        pdp: false
+        flagship: "WNET"
+        callsign: "WNET"
+        address: "New York, NY"
+        common_name: "THIRTEEN/WNET New York"
+      - 
+        membership_url: "https://support.whyy.org/join.php"
+        pbs_id: "6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed"
+        common_name_short: "WHYY"
+        pdp: false
+        flagship: "WHYY"
+        callsign: "WHYY"
+        address: "Philadelphia, PA"
+        common_name: "WHYY"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+      - 
+        membership_url: "http://www.wlvt.org/donate/"
+        pbs_id: "43e7850f-48a2-4e3e-b045-c880ea935fbd"
+        common_name_short: "PBS 39"
+        pdp: true
+        flagship: "WLVT"
+        callsign: "WLVT"
+        address: "Bethlehem, PA"
+        common_name: "PBS 39"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  NM: 
+    stations_list: 
+      - 
+        membership_url: "http://kenw.org/kenw-tv-pledge-tv-now"
+        pbs_id: "90a9e431-b5ac-4de4-868f-1f9dbfe8b101"
+        common_name_short: "KENW"
+        pdp: false
+        flagship: "KENW"
+        callsign: "KENW"
+        address: "Portales, NM"
+        common_name: "KENW New Mexico"
+      - 
+        membership_url: "http://supportkrwg.nmsu.edu/"
+        pbs_id: "fe731d89-e3b5-4a29-b4cc-6118c163a83d"
+        common_name_short: "KRWG"
+        pdp: false
+        flagship: "KRWG"
+        callsign: "KRWG"
+        address: "Las Cruces, NM"
+        common_name: "KRWG"
+      - 
+        membership_url: "https://knme.secureallegiance.com/knme/WebModule/Donate.aspx?P=NEWDONATE&PAGETYPE=PLG&CHECK=6B0XvuMEsuFPRoE1kiSpcK1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "97ba98c8-6deb-47b8-9809-2d1f3cc299bf"
+        common_name_short: "NM PBS"
+        pdp: false
+        flagship: "KNME"
+        callsign: "KNME"
+        address: "Albuquerque, NM"
+        common_name: "NM PBS"
+      - 
+        membership_url: "https://support.azpm.org/"
+        pbs_id: "3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6"
+        common_name_short: "AZPM"
+        pdp: false
+        flagship: "KUAT"
+        callsign: "KUAT"
+        address: "Tucson, AZ"
+        common_name: "Arizona Public Media"
+      - 
+        membership_url: "http://kcostv.org/support/individualsupport"
+        pbs_id: "7580dff9-9bd6-4732-8273-eaa5a1deba1f"
+        common_name_short: "KCOS"
+        pdp: false
+        flagship: "KCOS"
+        callsign: "KCOS"
+        address: "El Paso, TX"
+        common_name: "PBS El Paso"
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "http://www.panhandlepbs.org/donate/"
+        pbs_id: "838f7279-cacf-4561-bd33-ac9a4b1429e8"
+        common_name_short: "PPBS"
+        pdp: false
+        flagship: "KACV"
+        callsign: "KACV"
+        address: "Amarillo, TX"
+        common_name: "Panhandle PBS"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+  NY: 
+    stations_list: 
+      - 
+        membership_url: "http://mountainlake.org/donate"
+        pbs_id: "bf21732a-f52f-46ca-bbb6-4ae9663a94bf"
+        common_name_short: "MLPBS"
+        pdp: false
+        flagship: "WCFE"
+        callsign: "WCFE"
+        address: "Plattsburgh, NY"
+        common_name: "Mountain Lake PBS"
+      - 
+        membership_url: "https://www.thirteen.org/support/donation/join/?s_src=ALOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "80f93f7f-9742-47b8-aa58-0c0ceb866d9f"
+        common_name_short: "THIRTEEN"
+        pdp: false
+        flagship: "WNET"
+        callsign: "WNET"
+        address: "New York, NY"
+        common_name: "THIRTEEN/WNET New York"
+      - 
+        membership_url: "http://www.wcny.org/pbsorgdonate/"
+        pbs_id: "93eee638-f89d-42d3-83b2-c31b1082424a"
+        common_name_short: "WCNY"
+        pdp: false
+        flagship: "WCNY"
+        callsign: "WCNY"
+        address: "Syracuse, NY"
+        common_name: "WCNY"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=45C01C40-9586-41A7-9C07-57FAE6D674B3&source="
+        pbs_id: "0777611a-56f1-4668-8094-932ae7498998"
+        common_name_short: "WMHT"
+        pdp: false
+        flagship: "WMHT"
+        callsign: "WMHT"
+        address: "Troy, NY"
+        common_name: "WMHT"
+      - 
+        membership_url: "https://www.wnedmembers.org/alleg/WebModule/Donate.aspx?P=TVMYAQ&PAGETYPE=PLG&CHECK=dpxI0NjJylODqzeq8tu8whiCxtaFReuS"
+        pbs_id: "7e1c137a-9e83-4416-8b5a-b81042382e91"
+        common_name_short: "WNED"
+        pdp: false
+        flagship: "WNED"
+        callsign: "WNED"
+        address: "Buffalo, NY"
+        common_name: "WNED PBS"
+      - 
+        membership_url: "http://www.wpbstv.org/cms-display/pledge_membership.html"
+        pbs_id: "c17cb584-9efe-46fc-ac91-3fb453714069"
+        common_name_short: "WPBS"
+        pdp: false
+        flagship: "WPBS"
+        callsign: "WPBS"
+        address: "Watertown, NY"
+        common_name: "WPBS PBS"
+      - 
+        membership_url: "http://wskg.org/donatepbs"
+        pbs_id: "2d4742f8-8053-4ea5-8aab-1494fd1822c5"
+        common_name_short: "WSKG"
+        pdp: false
+        flagship: "WSKG"
+        callsign: "WSKG"
+        address: "Vestal, NY"
+        common_name: "WSKG"
+      - 
+        membership_url: "https://members.wxxi.org/ALLEG/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "d518ca7e-a094-4362-832b-ae1d426d3729"
+        common_name_short: "WXXI"
+        pdp: false
+        flagship: "WXXI"
+        callsign: "WXXI"
+        address: "Rochester, NY"
+        common_name: "WXXI Public Broadcasting"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.vermontpbs.org/donate/"
+        pbs_id: "3bef3c0b-a9c5-4585-ab56-29b462da5c7c"
+        common_name_short: "VTPBS"
+        pdp: false
+        flagship: "WETK"
+        callsign: "WETK"
+        address: "Colchester, VT"
+        common_name: "Vermont PBS"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "http://wpsu.org/contribute"
+        pbs_id: "dfef8386-9db4-41b2-97ab-82cdce4a19be"
+        common_name_short: "WPSU"
+        pdp: false
+        flagship: "WPSU"
+        callsign: "WPSU"
+        address: "University Park, PA"
+        common_name: "WPSU TV"
+      - 
+        membership_url: "http://www.wqln.org/Support-Us"
+        pbs_id: "06da2246-91c2-46a6-b78d-2b9f91bd0840"
+        common_name_short: "WQLN"
+        pdp: false
+        flagship: "WQLN"
+        callsign: "WQLN"
+        address: "Erie, PA"
+        common_name: "WQLN"
+      - 
+        membership_url: "https://be.wvia.org/donate/mainSiteInst(b).html"
+        pbs_id: "951e97d7-7c2c-45c0-abff-261c852fcb7d"
+        common_name_short: "WVIA"
+        pdp: false
+        flagship: "WVIA"
+        callsign: "WVIA"
+        address: "Pittston, PA"
+        common_name: "WVIA"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  NC: 
+    stations_list: 
+      - 
+        membership_url: "http://www.wtvi.org/support-us/"
+        pbs_id: "b44fd824-0168-46e3-bcb8-6322cf4c1e11"
+        common_name_short: "PBS Charlotte"
+        pdp: false
+        flagship: "WTVI"
+        callsign: "WTVI"
+        address: "Charlotte, NC"
+        common_name: "PBS Charlotte"
+      - 
+        membership_url: "http://members.unc-tv.org/site/PageServer?pagename=donation_landing"
+        pbs_id: "fa2384b8-9593-4d58-a129-4deb3a1f764a"
+        common_name_short: "UNC-TV"
+        pdp: false
+        flagship: "WUNC"
+        callsign: "WUNC"
+        address: "Research Triangle Park, NC"
+        common_name: "UNC-TV"
+      - 
+        membership_url: "https://wpba.secureallegiance.com/wpba/WebModule/Donate.aspx?P=TV2016CART&PAGETYPE=PLG&CHECK=nhUzrM%2flt%2fSfUM0ev9xOTr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58f6618f-24b3-4555-89f1-ba5007266ee1"
+        common_name_short: "ATL PBA"
+        pdp: false
+        flagship: "WPBA"
+        callsign: "WPBA"
+        address: "Atlanta, GA"
+        common_name: "WPBA"
+      - 
+        membership_url: "http://www.blueridgepbs.org/index.php/give/pledge-online"
+        pbs_id: "8995ff93-ac9d-4ece-8fe3-ae355d05f380"
+        common_name_short: "Blue Ridge"
+        pdp: false
+        flagship: "WBRA"
+        callsign: "WBRA"
+        address: "Roanoke, VA"
+        common_name: "Blue Ridge PBS"
+      - 
+        membership_url: "http://www.EastTennesseePBS.org/donate/"
+        pbs_id: "c65964f8-23e4-4080-9bd0-7d8e66af698d"
+        common_name_short: "etpbs"
+        pdp: false
+        flagship: "WETP"
+        callsign: "WETP"
+        address: "Knoxville, TN"
+        common_name: "East Tennessee PBS"
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "https://etvendowment.thankyou4caring.org/pages/general-donation-form-web"
+        pbs_id: "50ac3de0-09e0-43db-8bb6-d83826fd637c"
+        common_name_short: "SCETV"
+        pdp: false
+        flagship: "WRLK"
+        callsign: "WRLK"
+        address: "Columbia, SC"
+        common_name: "SCETV"
+      - 
+        membership_url: "https://members.whro.org/pledge.php?technique=PBS.org%20Online%20Donations"
+        pbs_id: "47568125-b3c7-4f5f-8c35-d27027113102"
+        common_name_short: "WHRO"
+        pdp: false
+        flagship: "WHRO"
+        callsign: "WHRO"
+        address: "Norfolk, VA"
+        common_name: "WHRO"
+      - 
+        membership_url: "http://wtcitv.org/suppport"
+        pbs_id: "50833393-c4b6-4c79-9d6d-24a7e30dc19e"
+        common_name_short: "WTCI"
+        pdp: false
+        flagship: "WTCI"
+        callsign: "WTCI"
+        address: "Chattanooga, TN"
+        common_name: "WTCI"
+  ND: 
+    stations_list: 
+      - 
+        membership_url: "http://www.prairiepublic.org/support/"
+        pbs_id: "59cb0666-d4b9-49a8-9738-e84f5e9392f7"
+        common_name_short: "Prairie Public"
+        pdp: false
+        flagship: "KFME"
+        callsign: "KFME"
+        address: "Fargo, ND"
+        common_name: "Prairie Public"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+  MP: 
+    stations_list: []
+  OH: 
+    stations_list: 
+      - 
+        membership_url: "https://cet.secureallegiance.com/cet/WebModule/Donate.aspx?P=CETWEB&PAGETYPE=PLG&CHECK=WfC3JhMmZJqa7VhFRwh3BhiCxtaFReuS"
+        pbs_id: "c9f75fe6-8da0-4bcb-a085-531edb49ca89"
+        common_name_short: "CET"
+        pdp: false
+        flagship: "WCET"
+        callsign: "WCET"
+        address: "Cincinnati, OH"
+        common_name: "CET"
+      - 
+        membership_url: "https://thinktv.secureallegiance.com/wptd/WebModule/Donate.aspx?P=WEBNONPLG&PAGETYPE=PLG&CHECK=yWaYZxSWHb0y7isJLG1Y7q1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "7bad8720-1c01-4189-ad48-4b203e571b94"
+        common_name_short: "ThinkTV"
+        pdp: false
+        flagship: "WPTD"
+        callsign: "WPTD"
+        address: "Dayton, OH"
+        common_name: "ThinkTVNetwork"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=1CF81C27-6E45-460E-883F-01055AE87F3B&source#/home"
+        pbs_id: "95a51146-e569-4607-b48c-6eec67749c2e"
+        common_name_short: "WBGU"
+        pdp: false
+        flagship: "WBGU"
+        callsign: "WBGU"
+        address: "Bowling Green, OH"
+        common_name: "WBGU"
+      - 
+        membership_url: "https://wgte.secureallegiance.com/wgte/WebModule/Donate.aspx?P=WEBAUG18&PAGETYPE=PLG&CHECK=nZbhz7JiDUoIiPrDJqgo6W3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "2bff28d0-08be-43a9-9dc0-6d3584e278d6"
+        common_name_short: "WGTE"
+        pdp: false
+        flagship: "WGTE"
+        callsign: "WGTE"
+        address: "Toledo, OH"
+        common_name: "WGTE"
+      - 
+        membership_url: "https://westernreservepublicmedia.org/donate.htm"
+        pbs_id: "dee8be27-fb3f-4369-a20d-6b36755b71ac"
+        common_name_short: "WNEO"
+        pdp: false
+        flagship: "WNEO"
+        callsign: "WNEO"
+        address: "Kent, OH"
+        common_name: "PBS Western Reserve"
+      - 
+        membership_url: "http://wosu.org/pledge"
+        pbs_id: "ba216f45-d78e-41cf-a23e-2026f3c99a5a"
+        common_name_short: "WOSU"
+        pdp: false
+        flagship: "WOSU"
+        callsign: "WOSU"
+        address: "Columbus, OH"
+        common_name: "WOSU"
+      - 
+        membership_url: "http://woub.org/support"
+        pbs_id: "4dc91f2b-0076-46d9-ba82-0c9130cde12c"
+        common_name_short: "WOUB"
+        pdp: false
+        flagship: "WOUB"
+        callsign: "WOUB"
+        address: "Athens, OH"
+        common_name: "WOUB"
+      - 
+        membership_url: "https://ideastream.secureallegiance.com/idea/WebModule/Donate.aspx?P=WVIZPASSPT&PAGETYPE=PLG&CHECK=UOeJbz7qhzdovG3G%2fZJuFr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58a3da14-85c6-4760-807e-9ec6807d89c4"
+        common_name_short: "WVIZ"
+        pdp: false
+        flagship: "WVIZ"
+        callsign: "WVIZ"
+        address: "Cleveland, OH"
+        common_name: "ideastream"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "http://wfwa.org/support/pledge-online/"
+        pbs_id: "3f02e9df-66c8-4f3d-8f51-a76c7255a45d"
+        common_name_short: "PBS39"
+        pdp: false
+        flagship: "WFWA"
+        callsign: "WFWA"
+        address: "Fort Wayne, IN"
+        common_name: "PBS Fort Wayne"
+      - 
+        membership_url: "https://wipb.secureallegiance.com/wipb/WebModule/Donate.aspx?P=0818PW&PAGETYPE=PLG&CHECK=8KhOn%2fktgEix6prc3yxoWxiCxtaFReuS"
+        pbs_id: "ab7e7061-dee0-4905-bf2c-5acd1888ace0"
+        common_name_short: "WIPB"
+        pdp: false
+        flagship: "WIPB"
+        callsign: "WIPB"
+        address: "Muncie, IN"
+        common_name: "WIPB"
+      - 
+        membership_url: "https://www.wqed.org/donate"
+        pbs_id: "9f860866-5985-487e-8191-0a2c49d5d6bb"
+        common_name_short: "WQED"
+        pdp: false
+        flagship: "WQED"
+        callsign: "WQED"
+        address: "Pittsburgh, PA"
+        common_name: "WQED"
+      - 
+        membership_url: "http://www.wqln.org/Support-Us"
+        pbs_id: "06da2246-91c2-46a6-b78d-2b9f91bd0840"
+        common_name_short: "WQLN"
+        pdp: false
+        flagship: "WQLN"
+        callsign: "WQLN"
+        address: "Erie, PA"
+        common_name: "WQLN"
+      - 
+        membership_url: "https://secure.wvpublic.org/donate/"
+        pbs_id: "f36a8eaa-cc11-4e0d-a3c1-638b9ebd3023"
+        common_name_short: "WVPB"
+        pdp: false
+        flagship: "WVPB"
+        callsign: "WVPB"
+        address: "Charleston, WV"
+        common_name: "West Virginia Public Broadcasting"
+  OK: 
+    stations_list: 
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "http://www.kera.org/donate/"
+        pbs_id: "b3291387-78a4-41e1-beb0-da2f61a96a3e"
+        common_name_short: "KERA"
+        pdp: false
+        flagship: "KERA"
+        callsign: "KERA"
+        address: "Dallas, TX"
+        common_name: "KERA"
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "https://optv.secureallegiance.com/kozk/WebModule/Donate.aspx?P=PASSPORT&PAGETYPE=PLG&CHECK=wD5h0wdH7y06egm5%2fkW7sm3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "04b9a7e1-c148-41d7-80fc-8304588f5426"
+        common_name_short: "OPT"
+        pdp: false
+        flagship: "KOZK"
+        callsign: "KOZK"
+        address: "Springfield, MO"
+        common_name: "Ozarks Public Television"
+      - 
+        membership_url: "http://www.panhandlepbs.org/donate/"
+        pbs_id: "838f7279-cacf-4561-bd33-ac9a4b1429e8"
+        common_name_short: "PPBS"
+        pdp: false
+        flagship: "KACV"
+        callsign: "KACV"
+        address: "Amarillo, TX"
+        common_name: "Panhandle PBS"
+  OR: 
+    stations_list: 
+      - 
+        membership_url: "https://give.opb.org/opb/?s=OAMEGNW180700001"
+        pbs_id: "908d1940-5074-4a1e-b111-169206513fef"
+        common_name_short: "OPB"
+        pdp: false
+        flagship: "KOPB"
+        callsign: "KOPB"
+        address: "Portland, OR"
+        common_name: "KOPB"
+      - 
+        membership_url: "http://www.soptv.org/web-donation/"
+        pbs_id: "0ab83f3a-3210-4904-ac59-c3fc08fa24a9"
+        common_name_short: "SOPTV"
+        pdp: false
+        flagship: "KSYS"
+        callsign: "KSYS"
+        address: "Medford, OR"
+        common_name: "Southern Oregon PBS"
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=DF609D70-0D2E-4AE2-8F52-28B9EAE991E0&source=TV1AM-W1809--003"
+        pbs_id: "271a9ab7-e9ed-4fec-9fe9-e46c97a3f8f0"
+        common_name_short: "KCTS 9"
+        pdp: false
+        flagship: "KCTS"
+        callsign: "KCTS"
+        address: "Seattle, WA"
+        common_name: "KCTS 9"
+      - 
+        membership_url: "https://ksps.secureallegiance.com/ksps/WebModule/Donate.aspx?P=GIVENOW2&PAGETYPE=PLG&CHECK=aCdmojAae0tXY08uazmCpG3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "3c8c7461-f130-483a-9b6c-84dbae163c07"
+        common_name_short: "KSPS"
+        pdp: false
+        flagship: "KSPS"
+        callsign: "KSPS"
+        address: "Spokane, WA"
+        common_name: "KSPS"
+      - 
+        membership_url: "http://www.pbsnorthcoast.org/single.php?nav=page&id=83"
+        pbs_id: "1b41a3da-967a-40fa-8243-87740f94dbd5"
+        common_name_short: "PBSNC"
+        pdp: false
+        flagship: "KEET"
+        callsign: "KEET"
+        address: "Eureka, CA"
+        common_name: "KEET"
+      - 
+        membership_url: "https://www.nwpb.org/tvpledge"
+        pbs_id: "3d095c51-58a0-452e-af6d-4812b79c3c04"
+        common_name_short: "NWPB"
+        pdp: true
+        flagship: "KWSU"
+        callsign: "KWSU"
+        address: "Pullman, WA"
+        common_name: "Northwest Public Broadcasting"
+  PA: 
+    stations_list: 
+      - 
+        membership_url: "https://support.whyy.org/join.php"
+        pbs_id: "6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed"
+        common_name_short: "WHYY"
+        pdp: false
+        flagship: "WHYY"
+        callsign: "WHYY"
+        address: "Philadelphia, PA"
+        common_name: "WHYY"
+      - 
+        membership_url: "http://www.witf.org/support/give-now.php"
+        pbs_id: "6b45b1e5-671e-439a-8673-ad21a5e56f32"
+        common_name_short: "WITF"
+        pdp: false
+        flagship: "WITF"
+        callsign: "WITF"
+        address: "Harrisburg, PA"
+        common_name: "WITF"
+      - 
+        membership_url: "http://wpsu.org/contribute"
+        pbs_id: "dfef8386-9db4-41b2-97ab-82cdce4a19be"
+        common_name_short: "WPSU"
+        pdp: false
+        flagship: "WPSU"
+        callsign: "WPSU"
+        address: "University Park, PA"
+        common_name: "WPSU TV"
+      - 
+        membership_url: "https://www.wqed.org/donate"
+        pbs_id: "9f860866-5985-487e-8191-0a2c49d5d6bb"
+        common_name_short: "WQED"
+        pdp: false
+        flagship: "WQED"
+        callsign: "WQED"
+        address: "Pittsburgh, PA"
+        common_name: "WQED"
+      - 
+        membership_url: "http://www.wqln.org/Support-Us"
+        pbs_id: "06da2246-91c2-46a6-b78d-2b9f91bd0840"
+        common_name_short: "WQLN"
+        pdp: false
+        flagship: "WQLN"
+        callsign: "WQLN"
+        address: "Erie, PA"
+        common_name: "WQLN"
+      - 
+        membership_url: "https://be.wvia.org/donate/mainSiteInst(b).html"
+        pbs_id: "951e97d7-7c2c-45c0-abff-261c852fcb7d"
+        common_name_short: "WVIA"
+        pdp: false
+        flagship: "WVIA"
+        callsign: "WVIA"
+        address: "Pittston, PA"
+        common_name: "WVIA"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "https://www.thirteen.org/support/donation/join/?s_src=ALOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "80f93f7f-9742-47b8-aa58-0c0ceb866d9f"
+        common_name_short: "THIRTEEN"
+        pdp: false
+        flagship: "WNET"
+        callsign: "WNET"
+        address: "New York, NY"
+        common_name: "THIRTEEN/WNET New York"
+      - 
+        membership_url: "http://www.wvpt.net/donor-level"
+        pbs_id: "de7ba510-9397-405c-9ddb-090cfb0c3df6"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WVPT"
+        callsign: "WVPT"
+        address: "Harrisonburg, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://www.wnedmembers.org/alleg/WebModule/Donate.aspx?P=TVMYAQ&PAGETYPE=PLG&CHECK=dpxI0NjJylODqzeq8tu8whiCxtaFReuS"
+        pbs_id: "7e1c137a-9e83-4416-8b5a-b81042382e91"
+        common_name_short: "WNED"
+        pdp: false
+        flagship: "WNED"
+        callsign: "WNED"
+        address: "Buffalo, NY"
+        common_name: "WNED PBS"
+      - 
+        membership_url: "https://westernreservepublicmedia.org/donate.htm"
+        pbs_id: "dee8be27-fb3f-4369-a20d-6b36755b71ac"
+        common_name_short: "WNEO"
+        pdp: false
+        flagship: "WNEO"
+        callsign: "WNEO"
+        address: "Kent, OH"
+        common_name: "PBS Western Reserve"
+      - 
+        membership_url: "http://wskg.org/donatepbs"
+        pbs_id: "2d4742f8-8053-4ea5-8aab-1494fd1822c5"
+        common_name_short: "WSKG"
+        pdp: false
+        flagship: "WSKG"
+        callsign: "WSKG"
+        address: "Vestal, NY"
+        common_name: "WSKG"
+      - 
+        membership_url: "https://ideastream.secureallegiance.com/idea/WebModule/Donate.aspx?P=WVIZPASSPT&PAGETYPE=PLG&CHECK=UOeJbz7qhzdovG3G%2fZJuFr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58a3da14-85c6-4760-807e-9ec6807d89c4"
+        common_name_short: "WVIZ"
+        pdp: false
+        flagship: "WVIZ"
+        callsign: "WVIZ"
+        address: "Cleveland, OH"
+        common_name: "ideastream"
+      - 
+        membership_url: "https://secure.wvpublic.org/donate/"
+        pbs_id: "f36a8eaa-cc11-4e0d-a3c1-638b9ebd3023"
+        common_name_short: "WVPB"
+        pdp: false
+        flagship: "WVPB"
+        callsign: "WVPB"
+        address: "Charleston, WV"
+        common_name: "West Virginia Public Broadcasting"
+      - 
+        membership_url: "http://www.wlvt.org/donate/"
+        pbs_id: "43e7850f-48a2-4e3e-b045-c880ea935fbd"
+        common_name_short: "PBS 39"
+        pdp: true
+        flagship: "WLVT"
+        callsign: "WLVT"
+        address: "Bethlehem, PA"
+        common_name: "PBS 39"
+      - 
+        membership_url: "https://www.njtvonline.org/support/donation/monthly-giving/?s_src=HLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "63b643e1-1a13-4dd9-9bab-ff6f7527715f"
+        common_name_short: "NJTV"
+        pdp: true
+        flagship: "WNJT"
+        callsign: "WNJT"
+        address: "New York, NY"
+        common_name: "NJTV"
+      - 
+        membership_url: "https://www.whut.org/home/support-whut-2/donate-to-whut-no-gift/"
+        pbs_id: "722b847a-5e2a-4d14-9429-2d430b10b1ee"
+        common_name_short: "WHUT"
+        pdp: true
+        flagship: "WHUT"
+        callsign: "WHUT"
+        address: "Washington, DC"
+        common_name: "WHUT"
+      - 
+        membership_url: "https://www.wliw.org/support/donation/join/?s_src=BLOWPBS01000&s_subsrc=pbs1217"
+        pbs_id: "a58c2765-7e77-4114-9668-75920022c6bc"
+        common_name_short: "WLIW21"
+        pdp: true
+        flagship: "WLIW"
+        callsign: "WLIW"
+        address: "Plainview, NY"
+        common_name: "WLIW"
+  PR: 
+    stations_list: 
+      - 
+        membership_url: "http://www.etv.state.ms.us/support/main.htm"
+        pbs_id: "b1464952-9a9b-41d2-9135-02e86eff47a6"
+        common_name_short: "WMTJ"
+        pdp: true
+        flagship: "WMTJ"
+        callsign: "WMTJ"
+        address: "San Juan, PR"
+        common_name: "WMTJ"
+  RI: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=749BE753-2AFD-4A51-9809-72EE1DA352B6&source=ASW0000WBPBS"
+        pbs_id: "d7096786-0d6d-4b42-b1b6-df7934b92fcb"
+        common_name_short: "CPTV"
+        pdp: false
+        flagship: "WEDH"
+        callsign: "WEDH"
+        address: "Hartford, CT"
+        common_name: "CPBN CPTV"
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "http://www.ripbs.org/support/"
+        pbs_id: "e17b0ab2-e59c-4281-81d3-0aba4db16dc9"
+        common_name_short: "RIPBS"
+        pdp: true
+        flagship: "WSBE"
+        callsign: "WSBE"
+        address: "Providence, RI"
+        common_name: "Rhode Island PBS"
+  SC: 
+    stations_list: 
+      - 
+        membership_url: "https://etvendowment.thankyou4caring.org/pages/general-donation-form-web"
+        pbs_id: "50ac3de0-09e0-43db-8bb6-d83826fd637c"
+        common_name_short: "SCETV"
+        pdp: false
+        flagship: "WRLK"
+        callsign: "WRLK"
+        address: "Columbia, SC"
+        common_name: "SCETV"
+      - 
+        membership_url: "https://wpba.secureallegiance.com/wpba/WebModule/Donate.aspx?P=TV2016CART&PAGETYPE=PLG&CHECK=nhUzrM%2flt%2fSfUM0ev9xOTr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58f6618f-24b3-4555-89f1-ba5007266ee1"
+        common_name_short: "ATL PBA"
+        pdp: false
+        flagship: "WPBA"
+        callsign: "WPBA"
+        address: "Atlanta, GA"
+        common_name: "WPBA"
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "http://www.wtvi.org/support-us/"
+        pbs_id: "b44fd824-0168-46e3-bcb8-6322cf4c1e11"
+        common_name_short: "PBS Charlotte"
+        pdp: false
+        flagship: "WTVI"
+        callsign: "WTVI"
+        address: "Charlotte, NC"
+        common_name: "PBS Charlotte"
+      - 
+        membership_url: "http://members.unc-tv.org/site/PageServer?pagename=donation_landing"
+        pbs_id: "fa2384b8-9593-4d58-a129-4deb3a1f764a"
+        common_name_short: "UNC-TV"
+        pdp: false
+        flagship: "WUNC"
+        callsign: "WUNC"
+        address: "Research Triangle Park, NC"
+        common_name: "UNC-TV"
+      - 
+        membership_url: "http://www.wcny.org/pbsorgdonate/"
+        pbs_id: "93eee638-f89d-42d3-83b2-c31b1082424a"
+        common_name_short: "WCNY"
+        pdp: false
+        flagship: "WCNY"
+        callsign: "WCNY"
+        address: "Syracuse, NY"
+        common_name: "WCNY"
+  SD: 
+    stations_list: 
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "http://www.prairiepublic.org/support/"
+        pbs_id: "59cb0666-d4b9-49a8-9738-e84f5e9392f7"
+        common_name_short: "Prairie Public"
+        pdp: false
+        flagship: "KFME"
+        callsign: "KFME"
+        address: "Fargo, ND"
+        common_name: "Prairie Public"
+  TN: 
+    stations_list: 
+      - 
+        membership_url: "http://www.EastTennesseePBS.org/donate/"
+        pbs_id: "c65964f8-23e4-4080-9bd0-7d8e66af698d"
+        common_name_short: "etpbs"
+        pdp: false
+        flagship: "WETP"
+        callsign: "WETP"
+        address: "Knoxville, TN"
+        common_name: "East Tennessee PBS"
+      - 
+        membership_url: "https://secure.wnpt.org/"
+        pbs_id: "42559186-b19b-45b5-9861-078ec38bb981"
+        common_name_short: "NPT"
+        pdp: false
+        flagship: "WNPT"
+        callsign: "WNPT"
+        address: "Nashville, TN"
+        common_name: "Nashville Public Television"
+      - 
+        membership_url: "https://be.wcte.org/donate/index.php"
+        pbs_id: "f551ddb2-28d0-45ba-a5e6-33daa55990f6"
+        common_name_short: "WCTE"
+        pdp: false
+        flagship: "WCTE"
+        callsign: "WCTE"
+        address: "Cookeville, TN"
+        common_name: "WCTE"
+      - 
+        membership_url: "https://secure.etransfer.com/WKNOTV/donate.cfm"
+        pbs_id: "6b3ba9b1-843d-4c44-a8e3-fada6005f081"
+        common_name_short: "WKNO"
+        pdp: false
+        flagship: "WKNO"
+        callsign: "WKNO"
+        address: "Cordova, TN"
+        common_name: "WKNO"
+      - 
+        membership_url: "http://wljt.org/donate.php"
+        pbs_id: "0afd0cce-f52c-4e96-baac-f05ffdf9560c"
+        common_name_short: "WLJT"
+        pdp: false
+        flagship: "WLJT"
+        callsign: "WLJT"
+        address: "Martin, TN"
+        common_name: "West TN PBS"
+      - 
+        membership_url: "http://wtcitv.org/suppport"
+        pbs_id: "50833393-c4b6-4c79-9d6d-24a7e30dc19e"
+        common_name_short: "WTCI"
+        pdp: false
+        flagship: "WTCI"
+        callsign: "WTCI"
+        address: "Chattanooga, TN"
+        common_name: "WTCI"
+      - 
+        membership_url: "http://aptv.org/Support/epledge/index.asp"
+        pbs_id: "fa2db1d4-85a0-4a75-aa3d-1f5028578d52"
+        common_name_short: "APT"
+        pdp: false
+        flagship: "WBIQ"
+        callsign: "WBIQ"
+        address: "Birmingham, AL"
+        common_name: "APT PBS"
+      - 
+        membership_url: "https://wpba.secureallegiance.com/wpba/WebModule/Donate.aspx?P=TV2016CART&PAGETYPE=PLG&CHECK=nhUzrM%2flt%2fSfUM0ev9xOTr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58f6618f-24b3-4555-89f1-ba5007266ee1"
+        common_name_short: "ATL PBA"
+        pdp: false
+        flagship: "WPBA"
+        callsign: "WPBA"
+        address: "Atlanta, GA"
+        common_name: "WPBA"
+      - 
+        membership_url: "http://www.blueridgepbs.org/index.php/give/pledge-online"
+        pbs_id: "8995ff93-ac9d-4ece-8fe3-ae355d05f380"
+        common_name_short: "Blue Ridge"
+        pdp: false
+        flagship: "WBRA"
+        callsign: "WBRA"
+        address: "Roanoke, VA"
+        common_name: "Blue Ridge PBS"
+      - 
+        membership_url: "http://www.gpb.org/give"
+        pbs_id: "a4907776-c769-452f-ab2f-74bb1f86676f"
+        common_name_short: "GPB"
+        pdp: false
+        flagship: "WGTV"
+        callsign: "WGTV"
+        address: "Atlanta, GA"
+        common_name: "Georgia Public Broadcasting"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "https://lptv.org/?donate=1"
+        pbs_id: "bb77b7f7-78ec-4134-aa62-3902aeca6169"
+        common_name_short: "LPTV"
+        pdp: false
+        flagship: "KAWE"
+        callsign: "KAWE"
+        address: "Bemidji, MN"
+        common_name: "Lakeland PBS"
+      - 
+        membership_url: "http://www.mpbonline.org/more/support/"
+        pbs_id: "5598653f-dc4d-4911-9d99-260b3453f6a1"
+        common_name_short: "MPB"
+        pdp: false
+        flagship: "WMPN"
+        callsign: "WMPN"
+        address: "Jackson, MS"
+        common_name: "Mississippi Public Broadcasting"
+      - 
+        membership_url: "http://members.unc-tv.org/site/PageServer?pagename=donation_landing"
+        pbs_id: "fa2384b8-9593-4d58-a129-4deb3a1f764a"
+        common_name_short: "UNC-TV"
+        pdp: false
+        flagship: "WUNC"
+        callsign: "WUNC"
+        address: "Research Triangle Park, NC"
+        common_name: "UNC-TV"
+      - 
+        membership_url: "https://westernreservepublicmedia.org/donate.htm"
+        pbs_id: "dee8be27-fb3f-4369-a20d-6b36755b71ac"
+        common_name_short: "WNEO"
+        pdp: false
+        flagship: "WNEO"
+        callsign: "WNEO"
+        address: "Kent, OH"
+        common_name: "PBS Western Reserve"
+      - 
+        membership_url: "http://www.wsiu.org/donate-now.aspx"
+        pbs_id: "e3e5cc8c-f21e-4b50-aede-55479f8c5eb8"
+        common_name_short: "WSIU"
+        pdp: false
+        flagship: "WSIU"
+        callsign: "WSIU"
+        address: "Carbondale, IL"
+        common_name: "WSIU"
+      - 
+        membership_url: "https://ideastream.secureallegiance.com/idea/WebModule/Donate.aspx?P=WVIZPASSPT&PAGETYPE=PLG&CHECK=UOeJbz7qhzdovG3G%2fZJuFr1YhDw50SikSh2nq0qouhg%3d"
+        pbs_id: "58a3da14-85c6-4760-807e-9ec6807d89c4"
+        common_name_short: "WVIZ"
+        pdp: false
+        flagship: "WVIZ"
+        callsign: "WVIZ"
+        address: "Cleveland, OH"
+        common_name: "ideastream"
+      - 
+        membership_url: "http://www.wkyupbs.org/pledge.html"
+        pbs_id: "c7ccd576-ca7b-4129-903b-d893ffea3260"
+        common_name_short: "WKYU"
+        pdp: true
+        flagship: "WKYU"
+        callsign: "WKYU"
+        address: "Bowling Green, KY"
+        common_name: "WKU PBS"
+  TX: 
+    stations_list: 
+      - 
+        membership_url: "http://www.basinpbs.org/support/membership/"
+        pbs_id: "d6f648b1-b823-43e5-9389-70e51e30cbf3"
+        common_name_short: "Basin PBS"
+        pdp: false
+        flagship: "KPBT"
+        callsign: "KPBT"
+        address: "Midland, TX"
+        common_name: "Basin PBS"
+      - 
+        membership_url: "http://kamu.drupal.publicbroadcasting.net/online-donation-options-kamu-tvfm"
+        pbs_id: "ef3867c9-4da7-4704-9855-10308b3afe4c"
+        common_name_short: "KAMU"
+        pdp: false
+        flagship: "KAMU"
+        callsign: "KAMU"
+        address: "College Station, TX"
+        common_name: "KAMU"
+      - 
+        membership_url: "http://kcostv.org/support/individualsupport"
+        pbs_id: "7580dff9-9bd6-4732-8273-eaa5a1deba1f"
+        common_name_short: "KCOS"
+        pdp: false
+        flagship: "KCOS"
+        callsign: "KCOS"
+        address: "El Paso, TX"
+        common_name: "PBS El Paso"
+      - 
+        membership_url: "https://nupledges.com/KEDT/Donation.aspx?Source=TV"
+        pbs_id: "0388c35d-d833-4259-9cfb-6af2d269a470"
+        common_name_short: "KEDT"
+        pdp: false
+        flagship: "KEDT"
+        callsign: "KEDT"
+        address: "Corpus Christi, TX"
+        common_name: "KEDT"
+      - 
+        membership_url: "http://www.kera.org/donate/"
+        pbs_id: "b3291387-78a4-41e1-beb0-da2f61a96a3e"
+        common_name_short: "KERA"
+        pdp: false
+        flagship: "KERA"
+        callsign: "KERA"
+        address: "Dallas, TX"
+        common_name: "KERA"
+      - 
+        membership_url: "http://pbs.klrn.org/Support/Donate.aspx"
+        pbs_id: "ee754c65-49eb-4f8b-a9be-6061442b0f49"
+        common_name_short: "KLRN"
+        pdp: false
+        flagship: "KLRN"
+        callsign: "KLRN"
+        address: "San Antonio, TX"
+        common_name: "KLRN"
+      - 
+        membership_url: "http://www.klru.org/donate/"
+        pbs_id: "4afb5e16-16d0-4803-bc68-70b7816d6c7c"
+        common_name_short: "KLRU"
+        pdp: false
+        flagship: "KLRU"
+        callsign: "KLRU"
+        address: "Austin, TX"
+        common_name: "Austin PBS"
+      - 
+        membership_url: "https://donate.nprstations.org/kttz/kttz-tv-one-time-gift?_ga=1.260835662.2123656588.1491405838"
+        pbs_id: "5d26e51d-d6bf-4044-aeb4-0082f0ba86d9"
+        common_name_short: "KTTZ"
+        pdp: false
+        flagship: "KTTZ"
+        callsign: "KTTZ"
+        address: "Lubbock, TX"
+        common_name: "Texas Tech Public Media"
+      - 
+        membership_url: "http://www.houstonpublicmedia.org/support/passport/"
+        pbs_id: "a0c19534-b8cd-4d9f-8856-442a473c4aff"
+        common_name_short: "KUHT TV 8"
+        pdp: false
+        flagship: "KUHT"
+        callsign: "KUHT"
+        address: "Houston, TX"
+        common_name: "KUHT TV 8"
+      - 
+        membership_url: "http://www.panhandlepbs.org/donate/"
+        pbs_id: "838f7279-cacf-4561-bd33-ac9a4b1429e8"
+        common_name_short: "PPBS"
+        pdp: false
+        flagship: "KACV"
+        callsign: "KACV"
+        address: "Amarillo, TX"
+        common_name: "Panhandle PBS"
+      - 
+        membership_url: "http://www.aetnfoundation.org"
+        pbs_id: "b5545820-5d66-4396-9f94-b5bd58aa34d9"
+        common_name_short: "Arkansas PBS"
+        pdp: false
+        flagship: "KETS"
+        callsign: "KETS"
+        address: "Conway, AR"
+        common_name: "Arkansas PBS"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "http://kenw.org/kenw-tv-pledge-tv-now"
+        pbs_id: "90a9e431-b5ac-4de4-868f-1f9dbfe8b101"
+        common_name_short: "KENW"
+        pdp: false
+        flagship: "KENW"
+        callsign: "KENW"
+        address: "Portales, NM"
+        common_name: "KENW New Mexico"
+      - 
+        membership_url: "http://supportkrwg.nmsu.edu/"
+        pbs_id: "fe731d89-e3b5-4a29-b4cc-6118c163a83d"
+        common_name_short: "KRWG"
+        pdp: false
+        flagship: "KRWG"
+        callsign: "KRWG"
+        address: "Las Cruces, NM"
+        common_name: "KRWG"
+      - 
+        membership_url: "https://lpb.secureallegiance.com/lpb/WebModule/Donate.aspx?P=DEFAULT&PAGETYPE=PLG&CHECK=vOU2bz5JCWmgCDbf53nm9ezWDeZ%2beA1M"
+        pbs_id: "3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba"
+        common_name_short: "LPB"
+        pdp: false
+        flagship: "WLPB"
+        callsign: "WLPB"
+        address: "Baton Rouge, LA"
+        common_name: "LPB"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "https://knme.secureallegiance.com/knme/WebModule/Donate.aspx?P=NEWDONATE&PAGETYPE=PLG&CHECK=6B0XvuMEsuFPRoE1kiSpcK1gzMC6uhq5nDjkJobrCdg%3d"
+        pbs_id: "97ba98c8-6deb-47b8-9809-2d1f3cc299bf"
+        common_name_short: "NM PBS"
+        pdp: false
+        flagship: "KNME"
+        callsign: "KNME"
+        address: "Albuquerque, NM"
+        common_name: "NM PBS"
+      - 
+        membership_url: "https://secure.wnpt.org/"
+        pbs_id: "42559186-b19b-45b5-9861-078ec38bb981"
+        common_name_short: "NPT"
+        pdp: false
+        flagship: "WNPT"
+        callsign: "WNPT"
+        address: "Nashville, TN"
+        common_name: "Nashville Public Television"
+      - 
+        membership_url: "http://www.oeta.tv/donate"
+        pbs_id: "edf8065c-f56a-42f7-a7aa-f5267eb9ffc9"
+        common_name_short: "OETA"
+        pdp: false
+        flagship: "KETA"
+        callsign: "KETA"
+        address: "Oklahoma City, OK"
+        common_name: "OETA"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+  UT: 
+    stations_list: 
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://be.vegaspbs.org/donate/mainDonation.php"
+        pbs_id: "ca45083b-e314-4063-bd2e-0d614f01ea43"
+        common_name_short: "Vegas PBS"
+        pdp: false
+        flagship: "KLVX"
+        callsign: "KLVX"
+        address: "Las Vegas, NV"
+        common_name: "Vegas PBS"
+      - 
+        membership_url: "http://www.wyomingpbs.org/support/"
+        pbs_id: "84b31db3-3cd6-442f-b87b-1ec11d54259d"
+        common_name_short: "WyomingPBS"
+        pdp: false
+        flagship: "KCWC"
+        callsign: "KCWC"
+        address: "Riverton, WY"
+        common_name: "Wyoming PBS"
+  VT: 
+    stations_list: 
+      - 
+        membership_url: "https://www.vermontpbs.org/donate/"
+        pbs_id: "3bef3c0b-a9c5-4585-ab56-29b462da5c7c"
+        common_name_short: "VTPBS"
+        pdp: false
+        flagship: "WETK"
+        callsign: "WETK"
+        address: "Colchester, VT"
+        common_name: "Vermont PBS"
+      - 
+        membership_url: "http://mountainlake.org/donate"
+        pbs_id: "bf21732a-f52f-46ca-bbb6-4ae9663a94bf"
+        common_name_short: "MLPBS"
+        pdp: false
+        flagship: "WCFE"
+        callsign: "WCFE"
+        address: "Plattsburgh, NY"
+        common_name: "Mountain Lake PBS"
+      - 
+        membership_url: "https://nhpbs.org/donate/"
+        pbs_id: "5be2a7e3-fc57-471e-80ff-c5ea79229078"
+        common_name_short: "NHPBS"
+        pdp: false
+        flagship: "WENH"
+        callsign: "WENH"
+        address: "Durham, NH"
+        common_name: "New Hampshire PBS"
+      - 
+        membership_url: "https://www.wgbh.org/support/pbs-lightbox-2017dec"
+        pbs_id: "7387eb2c-e0ce-4069-82d9-08865df87edf"
+        common_name_short: "WGBH"
+        pdp: false
+        flagship: "WGBH"
+        callsign: "WGBH"
+        address: "Boston, MA"
+        common_name: "WGBH"
+      - 
+        membership_url: "https://wgby.org/support/passportsignup"
+        pbs_id: "b62fa183-78dc-41d7-bd8a-12602304b118"
+        common_name_short: "WGBY"
+        pdp: false
+        flagship: "WGBY"
+        callsign: "WGBY"
+        address: "Springfield, MA"
+        common_name: "WGBY"
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=45C01C40-9586-41A7-9C07-57FAE6D674B3&source="
+        pbs_id: "0777611a-56f1-4668-8094-932ae7498998"
+        common_name_short: "WMHT"
+        pdp: false
+        flagship: "WMHT"
+        callsign: "WMHT"
+        address: "Troy, NY"
+        common_name: "WMHT"
+  VI: 
+    stations_list: 
+      - 
+        membership_url: "https://www.wtjx.org/donate/"
+        pbs_id: "1df55a66-92a1-400f-9854-937a1fd7a5d9"
+        common_name_short: "WTJX"
+        pdp: false
+        flagship: "WTJX"
+        callsign: "WTJX"
+        address: "Charlotte Amalie, St. Thomas, VI"
+        common_name: "WTJX"
+  VA: 
+    stations_list: 
+      - 
+        membership_url: "http://www.blueridgepbs.org/index.php/give/pledge-online"
+        pbs_id: "8995ff93-ac9d-4ece-8fe3-ae355d05f380"
+        common_name_short: "Blue Ridge"
+        pdp: false
+        flagship: "WBRA"
+        callsign: "WBRA"
+        address: "Roanoke, VA"
+        common_name: "Blue Ridge PBS"
+      - 
+        membership_url: "https://pbspassport.force.com/passport/DonateNow?stn=WCVE"
+        pbs_id: "86532025-6a98-4ed7-87ef-cce5615bfcf0"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WCVE"
+        callsign: "WCVE"
+        address: "Richmond, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.wvpt.net/donor-level"
+        pbs_id: "de7ba510-9397-405c-9ddb-090cfb0c3df6"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WVPT"
+        callsign: "WVPT"
+        address: "Harrisonburg, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://members.whro.org/pledge.php?technique=PBS.org%20Online%20Donations"
+        pbs_id: "47568125-b3c7-4f5f-8c35-d27027113102"
+        common_name_short: "WHRO"
+        pdp: false
+        flagship: "WHRO"
+        callsign: "WHRO"
+        address: "Norfolk, VA"
+        common_name: "WHRO"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "http://www.EastTennesseePBS.org/donate/"
+        pbs_id: "c65964f8-23e4-4080-9bd0-7d8e66af698d"
+        common_name_short: "etpbs"
+        pdp: false
+        flagship: "WETP"
+        callsign: "WETP"
+        address: "Knoxville, TN"
+        common_name: "East Tennessee PBS"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "http://members.unc-tv.org/site/PageServer?pagename=donation_landing"
+        pbs_id: "fa2384b8-9593-4d58-a129-4deb3a1f764a"
+        common_name_short: "UNC-TV"
+        pdp: false
+        flagship: "WUNC"
+        callsign: "WUNC"
+        address: "Research Triangle Park, NC"
+        common_name: "UNC-TV"
+      - 
+        membership_url: "https://www.whut.org/home/support-whut-2/donate-to-whut-no-gift/"
+        pbs_id: "722b847a-5e2a-4d14-9429-2d430b10b1ee"
+        common_name_short: "WHUT"
+        pdp: true
+        flagship: "WHUT"
+        callsign: "WHUT"
+        address: "Washington, DC"
+        common_name: "WHUT"
+  WA: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=DF609D70-0D2E-4AE2-8F52-28B9EAE991E0&source=TV1AM-W1809--003"
+        pbs_id: "271a9ab7-e9ed-4fec-9fe9-e46c97a3f8f0"
+        common_name_short: "KCTS 9"
+        pdp: false
+        flagship: "KCTS"
+        callsign: "KCTS"
+        address: "Seattle, WA"
+        common_name: "KCTS 9"
+      - 
+        membership_url: "https://ksps.secureallegiance.com/ksps/WebModule/Donate.aspx?P=GIVENOW2&PAGETYPE=PLG&CHECK=aCdmojAae0tXY08uazmCpG3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "3c8c7461-f130-483a-9b6c-84dbae163c07"
+        common_name_short: "KSPS"
+        pdp: false
+        flagship: "KSPS"
+        callsign: "KSPS"
+        address: "Spokane, WA"
+        common_name: "KSPS"
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://give.opb.org/opb/?s=OAMEGNW180700001"
+        pbs_id: "908d1940-5074-4a1e-b111-169206513fef"
+        common_name_short: "OPB"
+        pdp: false
+        flagship: "KOPB"
+        callsign: "KOPB"
+        address: "Portland, OR"
+        common_name: "KOPB"
+      - 
+        membership_url: "https://kbtc.secureallegiance.com/kbtc/WebModule/Donate.aspx?P=HOME&PAGETYPE=PLG&CHECK=SVDIHanJsciqK20krF35cqUOstgWaB20"
+        pbs_id: "79a490c8-0603-4aa5-9126-81a947c47db0"
+        common_name_short: "KBTC"
+        pdp: true
+        flagship: "KBTC"
+        callsign: "KBTC"
+        address: "Tacoma, WA"
+        common_name: "KBTC"
+      - 
+        membership_url: "https://www.nwpb.org/tvpledge"
+        pbs_id: "3d095c51-58a0-452e-af6d-4812b79c3c04"
+        common_name_short: "NWPB"
+        pdp: true
+        flagship: "KWSU"
+        callsign: "KWSU"
+        address: "Pullman, WA"
+        common_name: "Northwest Public Broadcasting"
+  WV: 
+    stations_list: 
+      - 
+        membership_url: "https://secure.wvpublic.org/donate/"
+        pbs_id: "f36a8eaa-cc11-4e0d-a3c1-638b9ebd3023"
+        common_name_short: "WVPB"
+        pdp: false
+        flagship: "WVPB"
+        callsign: "WVPB"
+        address: "Charleston, WV"
+        common_name: "West Virginia Public Broadcasting"
+      - 
+        membership_url: "http://www.blueridgepbs.org/index.php/give/pledge-online"
+        pbs_id: "8995ff93-ac9d-4ece-8fe3-ae355d05f380"
+        common_name_short: "Blue Ridge"
+        pdp: false
+        flagship: "WBRA"
+        callsign: "WBRA"
+        address: "Roanoke, VA"
+        common_name: "Blue Ridge PBS"
+      - 
+        membership_url: "https://be.dptv.org/donate/index.html?pbs"
+        pbs_id: "7f382f2c-72eb-4e19-ba1b-1d6d143ae841"
+        common_name_short: "DPTV"
+        pdp: false
+        flagship: "WTVS"
+        callsign: "WTVS"
+        address: "Wixom, MI"
+        common_name: "Detroit Public Television"
+      - 
+        membership_url: "https://ket.secureallegiance.com/ket/WebModule/Donate.aspx?P=5&PAGETYPE=PLG&CHECK=tiBeKnSaf8StYMzAuroauZw45CaG6wnY"
+        pbs_id: "61059d95-3011-4270-b9d1-17b88ca25b13"
+        common_name_short: "KET"
+        pdp: false
+        flagship: "WKLE"
+        callsign: "WKLE"
+        address: "Lexington, KY"
+        common_name: "KET"
+      - 
+        membership_url: "http://www.mpt.org/donate"
+        pbs_id: "fdb26654-eed0-4858-aa50-a84b538f4747"
+        common_name_short: "MPT"
+        pdp: false
+        flagship: "WMPB"
+        callsign: "WMPB"
+        address: "Owings Mills, MD"
+        common_name: "MPT"
+      - 
+        membership_url: "http://www.wvpt.net/donor-level"
+        pbs_id: "de7ba510-9397-405c-9ddb-090cfb0c3df6"
+        common_name_short: "VPM"
+        pdp: false
+        flagship: "WVPT"
+        callsign: "WVPT"
+        address: "Harrisonburg, VA"
+        common_name: "VPM"
+      - 
+        membership_url: "http://www.weta.org/pbs"
+        pbs_id: "92d89794-5ff0-4fe6-a443-cc888104e021"
+        common_name_short: "WETA"
+        pdp: false
+        flagship: "WETA"
+        callsign: "WETA"
+        address: "Arlington, VA"
+        common_name: "WETA"
+      - 
+        membership_url: "https://westernreservepublicmedia.org/donate.htm"
+        pbs_id: "dee8be27-fb3f-4369-a20d-6b36755b71ac"
+        common_name_short: "WNEO"
+        pdp: false
+        flagship: "WNEO"
+        callsign: "WNEO"
+        address: "Kent, OH"
+        common_name: "PBS Western Reserve"
+      - 
+        membership_url: "http://wosu.org/pledge"
+        pbs_id: "ba216f45-d78e-41cf-a23e-2026f3c99a5a"
+        common_name_short: "WOSU"
+        pdp: false
+        flagship: "WOSU"
+        callsign: "WOSU"
+        address: "Columbus, OH"
+        common_name: "WOSU"
+      - 
+        membership_url: "http://woub.org/support"
+        pbs_id: "4dc91f2b-0076-46d9-ba82-0c9130cde12c"
+        common_name_short: "WOUB"
+        pdp: false
+        flagship: "WOUB"
+        callsign: "WOUB"
+        address: "Athens, OH"
+        common_name: "WOUB"
+      - 
+        membership_url: "https://www.wqed.org/donate"
+        pbs_id: "9f860866-5985-487e-8191-0a2c49d5d6bb"
+        common_name_short: "WQED"
+        pdp: false
+        flagship: "WQED"
+        callsign: "WQED"
+        address: "Pittsburgh, PA"
+        common_name: "WQED"
+      - 
+        membership_url: "https://www.whut.org/home/support-whut-2/donate-to-whut-no-gift/"
+        pbs_id: "722b847a-5e2a-4d14-9429-2d430b10b1ee"
+        common_name_short: "WHUT"
+        pdp: true
+        flagship: "WHUT"
+        callsign: "WHUT"
+        address: "Washington, DC"
+        common_name: "WHUT"
+  WI: 
+    stations_list: 
+      - 
+        membership_url: "https://www.callswithoutwalls.com/pledgeCart3/?campaign=06A27B6F-3288-4D78-9FAE-66AB4FCE2E97&source=#/home"
+        pbs_id: "27146fbb-5f51-4924-9e00-bb46e89e18a8"
+        common_name_short: "MilwPBS"
+        pdp: false
+        flagship: "WMVS"
+        callsign: "WMVS"
+        address: "Milwaukee, WI"
+        common_name: "Milwaukee PBS"
+      - 
+        membership_url: "https://wptschedule.org/Donate/Support-Wisconsin/"
+        pbs_id: "a3a25e36-3ba3-40b4-990f-7460511f0127"
+        common_name_short: "WPT"
+        pdp: false
+        flagship: "WPNE"
+        callsign: "WPNE"
+        address: "Madison, WI"
+        common_name: "PBS Wisconsin"
+      - 
+        membership_url: "http://www.iptv.org/pledge/"
+        pbs_id: "4b65e70a-e262-4290-ae67-45bd0814cafd"
+        common_name_short: "IPTV"
+        pdp: false
+        flagship: "KDIN"
+        callsign: "KDIN"
+        address: "Johnston, IA"
+        common_name: "Iowa PBS"
+      - 
+        membership_url: "https://lptv.org/?donate=1"
+        pbs_id: "bb77b7f7-78ec-4134-aa62-3902aeca6169"
+        common_name_short: "LPTV"
+        pdp: false
+        flagship: "KAWE"
+        callsign: "KAWE"
+        address: "Bemidji, MN"
+        common_name: "Lakeland PBS"
+      - 
+        membership_url: "http://www.pioneer.org/supportpioneer.php"
+        pbs_id: "3c88d7e0-5940-41e0-b7b7-30f728b3ea46"
+        common_name_short: "Pioneer"
+        pdp: false
+        flagship: "KWCM"
+        callsign: "KWCM"
+        address: "Appleton, MN"
+        common_name: "Pioneer PBS"
+      - 
+        membership_url: "https://www.tpt.org/give/?pledge_code=AMW170901PBS"
+        pbs_id: "3742dff1-85cd-42d1-ab39-7ffa8ef10211"
+        common_name_short: "TPT"
+        pdp: false
+        flagship: "KTCA"
+        callsign: "KTCA"
+        address: "St. Paul, MN"
+        common_name: "TPT | Twin Cities PBS"
+      - 
+        membership_url: "https://www.wdse.org/support"
+        pbs_id: "38c2df8a-4e7e-4193-8cc6-8704059cbb1a"
+        common_name_short: "WDSE"
+        pdp: false
+        flagship: "WDSE"
+        callsign: "WDSE"
+        address: "Duluth, MN"
+        common_name: "WDSE"
+      - 
+        membership_url: "https://wnmutv.nmu.edu/support/"
+        pbs_id: "a3abb950-c4d6-43b8-9299-94556c0ad751"
+        common_name_short: "WNMU"
+        pdp: false
+        flagship: "WNMU"
+        callsign: "WNMU"
+        address: "Marquette, MI"
+        common_name: "WNMU"
+      - 
+        membership_url: "https://secure.wttw.com/"
+        pbs_id: "8030a253-4b34-463e-82e2-ec0726e24e58"
+        common_name_short: "WTTW"
+        pdp: false
+        flagship: "WTTW"
+        callsign: "WTTW"
+        address: "Chicago, IL"
+        common_name: "WTTW"
+      - 
+        membership_url: "https://support.ksmq.org/index.php/ways-to-donate-in-pledge"
+        pbs_id: "a8919c6f-2476-4e73-9f94-c3f1266e85b3"
+        common_name_short: "KSMQ"
+        pdp: true
+        flagship: "KSMQ"
+        callsign: "KSMQ"
+        address: "Austin, MN"
+        common_name: "KSMQ"
+  WY: 
+    stations_list: 
+      - 
+        membership_url: "http://www.wyomingpbs.org/support/"
+        pbs_id: "84b31db3-3cd6-442f-b87b-1ec11d54259d"
+        common_name_short: "WyomingPBS"
+        pdp: false
+        flagship: "KCWC"
+        callsign: "KCWC"
+        address: "Riverton, WY"
+        common_name: "Wyoming PBS"
+      - 
+        membership_url: "http://idahoptv.org/support_new/"
+        pbs_id: "8a949120-ff4f-4d71-9c96-ca4978e3b39a"
+        common_name_short: "IdahoPTV"
+        pdp: false
+        flagship: "KAID"
+        callsign: "KAID"
+        address: "Boise, ID"
+        common_name: "Idaho Public Television"
+      - 
+        membership_url: "https://www.kued.org/donate"
+        pbs_id: "b0784447-7908-43f6-b188-9d6a30102ea3"
+        common_name_short: "KUED"
+        pdp: false
+        flagship: "KUED"
+        callsign: "KUED"
+        address: "Salt Lake City, UT"
+        common_name: "PBS Utah"
+      - 
+        membership_url: "http://www.montanapbs.org/support"
+        pbs_id: "e588e03b-d9c4-4988-aba1-94a3b98e88c2"
+        common_name_short: "Montana PBS"
+        pdp: false
+        flagship: "KUSM"
+        callsign: "KUSM"
+        address: "Bozeman, MT"
+        common_name: "Montana PBS"
+      - 
+        membership_url: "https://netnebraska.org/donate"
+        pbs_id: "b107784d-680c-48d5-8d48-ccb870cbb9dc"
+        common_name_short: "NET"
+        pdp: false
+        flagship: "KUON"
+        callsign: "KUON"
+        address: "Lincoln, NE"
+        common_name: "NET Nebraska"
+      - 
+        membership_url: "https://rmpm.secure.force.com/support/rmpbs/supportrmpbs"
+        pbs_id: "1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c"
+        common_name_short: "RMPBS"
+        pdp: false
+        flagship: "KRMA"
+        callsign: "KRMA"
+        address: "Denver, CO"
+        common_name: "Rocky Mountain PBS"
+      - 
+        membership_url: "https://sdpb.secureallegiance.com/sdpb/WebModule/Donate.aspx?P=OCT15NEW&PAGETYPE=PLG&CHECK=lMw61HStQx0Ic1ZrumX8Om3L5BYddGq6PVAl6UEf65g%3d"
+        pbs_id: "1a8001d3-46cc-420b-8161-fd19578f8675"
+        common_name_short: "SDPB"
+        pdp: false
+        flagship: "KUSD"
+        callsign: "KUSD"
+        address: "Vermillion, SD"
+        common_name: "South Dakota Public Broadcasting"
+      - 
+        membership_url: "https://www.cpt12.org/support/pledge_renew.cfm"
+        pbs_id: "b4721bf0-b2c5-4568-ba88-69954956292f"
+        common_name_short: "PBS 12"
+        pdp: true
+        flagship: "KBDI"
+        callsign: "KBDI"
+        address: "Denver, CO"
+        common_name: "PBS 12"
+
