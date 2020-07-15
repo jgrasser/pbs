@@ -16,13 +16,22 @@ data = {
 }
 
 
+def paginate(func):
+    def inner():
+        out = func()
+        data['variables']['page'] += 1
+        return out
+    return inner
+
+
+@paginate
 def graphql():
     try:
         resp = utils.client('POST', '/graphql', data=data)
-        data['variables']['page'] += 1
         return resp['data']['shows']['content']
     except KeyError:
         return []
+
 
 def list():
     shows = []
