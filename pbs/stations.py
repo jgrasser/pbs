@@ -4,7 +4,7 @@ import argparse, json
 
 def list(argv):
     parser = argparse.ArgumentParser(
-               usage='pbs.py episodes [-h]',
+               usage='pbs.py stations [-h]',
                description='Search and play video content from PBS.org')
 
     args = parser.parse_args(argv)
