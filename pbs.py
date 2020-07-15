@@ -7,7 +7,8 @@ actions = [
     'stations',
     'shows',
     'episodes',
-    'seasons'
+    'seasons',
+    'player'
 ]
 
 def main():
@@ -27,6 +28,8 @@ def main():
             print(pbs.episodes.list(sys.argv[2:]))
         elif args.action == 'stations':
             print(pbs.stations.list(sys.argv[2:]))
+        elif args.action == 'player':
+            pbs.player.list(sys.argv[2:])
 
     except IndexError:
         parser.print_help()

@@ -1,2 +1,2 @@
-__all__ = ['stations', 'shows', 'episodes', 'seasons']
+__all__ = ['stations', 'shows', 'episodes', 'seasons', 'player']
 from . import *

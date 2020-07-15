@@ -1,0 +1,144 @@
+{
+    "content": [
+        {
+            "video_type": "episode",
+            "description_short": "Join Emily as discovers surprising truths hidden in the fossil record.",
+            "images": {
+                "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/wmNz52s-asset-mezzanine-16x9-WXYl9fu.jpg"
+            },
+            "expire_date": "2020-07-30T03:59:59Z",
+            "flags": {
+                "is_mvod": false,
+                "is_expiring_soon": false,
+                "is_new": false,
+                "is_fully_watched": null,
+                "has_captions": true
+            },
+            "encore_date": "2020-07-01T00:00:00-04:00",
+            "title_sortable": "Tiny Teeth, Fearsome Beasts",
+            "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/tiny-teeth-fearsome-beasts-axy0yx/",
+            "slug": "tiny-teeth-fearsome-beasts-axy0yx",
+            "title": "Tiny Teeth, Fearsome Beasts",
+            "description_long": "Join Emily as she continues her adventure, discovering surprising truths hidden in the fossil record. Meanwhile, scientists studying our planet\u2019s past are revealing clues about its future.",
+            "duration": 3349,
+            "item_type": "video",
+            "premiere_date": "2020-07-01T00:00:00-04:00",
+            "seconds_watched": null,
+            "availability": "available",
+            "parent_type": "episode",
+            "show": {
+                "slug": "prehistoric-road-trip",
+                "title": "Prehistoric Road Trip",
+                "season": 1,
+                "episode": 3,
+                "seasons_count": 1,
+                "display_episode_number": true
+            },
+            "summary": "Ep3 | 55m 49s",
+            "ancestor_title": "Prehistoric Road Trip",
+            "ancestor_slug": "prehistoric-road-trip",
+            "ancestor_type": "show",
+            "image": "https://image.pbs.org/video-assets/wmNz52s-asset-mezzanine-16x9-WXYl9fu.jpg",
+            "legacy_tp_media_id": 3042366639,
+            "cid": "666c37ba-d789-49b0-b4df-12b9b746625d"
+        },
+        {
+            "video_type": "episode",
+            "description_short": "Cruise into the Cretaceous, when astonishing creatures like T. rex dominated the planet.",
+            "images": {
+                "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/CRCawAT-asset-mezzanine-16x9-wF02JHc.jpg"
+            },
+            "expire_date": "2020-07-23T03:59:59Z",
+            "flags": {
+                "is_mvod": false,
+                "is_expiring_soon": true,
+                "is_new": false,
+                "is_fully_watched": null,
+                "has_captions": true
+            },
+            "encore_date": "2020-06-24T00:00:00-04:00",
+            "title_sortable": "We Dig Dinosaurs",
+            "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/we-dig-dinosaurs-i7ljvq/",
+            "slug": "we-dig-dinosaurs-i7ljvq",
+            "title": "We Dig Dinosaurs",
+            "description_long": "Cruise with Emily into the Cretaceous, when astonishing creatures like T. rex dominated the planet. But what happened to these tremendous animals? And how did other life forms survive an apocalyptic asteroid crash into Earth 66 million years ago?",
+            "duration": 3346,
+            "item_type": "video",
+            "premiere_date": "2020-06-24T00:00:00-04:00",
+            "seconds_watched": null,
+            "availability": "available",
+            "parent_type": "episode",
+            "show": {
+                "slug": "prehistoric-road-trip",
+                "title": "Prehistoric Road Trip",
+                "season": 1,
+                "episode": 2,
+                "seasons_count": 1,
+                "display_episode_number": true
+            },
+            "summary": "Ep2 | 55m 46s",
+            "ancestor_title": "Prehistoric Road Trip",
+            "ancestor_slug": "prehistoric-road-trip",
+            "ancestor_type": "show",
+            "image": "https://image.pbs.org/video-assets/CRCawAT-asset-mezzanine-16x9-wF02JHc.jpg",
+            "legacy_tp_media_id": 3042366271,
+            "cid": "ed06d725-dcd9-4a3e-b4e0-29c10921144f"
+        },
+        {
+            "video_type": "episode",
+            "description_short": "Travel through billions of years of history to meet some of the earliest life forms.",
+            "images": {
+                "asset-mezzanine-16x9": "https://image.pbs.org/video-assets/2aUSKu1-asset-mezzanine-16x9-hOUb9Vl.jpg"
+            },
+            "expire_date": "2020-07-16T03:59:59Z",
+            "flags": {
+                "is_mvod": false,
+                "is_expiring_soon": true,
+                "is_new": false,
+                "is_fully_watched": null,
+                "has_captions": true
+            },
+            "encore_date": "2020-06-17T00:00:00-04:00",
+            "title_sortable": "Welcome to Fossil Country",
+            "url": "https://content.services.pbs.org/v3/pbsorg/screens/video-assets/welcome-to-fossil-country-mpoq6h/",
+            "slug": "welcome-to-fossil-country-mpoq6h",
+            "title": "Welcome to Fossil Country",
+            "description_long": "Travel with Emily through billions of years of Earth\u2019s history to meet some of its earliest life forms, from primitive bacteria to giant reptiles and many surprising creatures in between.",
+            "duration": 3236,
+            "item_type": "video",
+            "premiere_date": "2020-06-17T00:00:00-04:00",
+            "seconds_watched": null,
+            "availability": "available",
+            "parent_type": "episode",
+            "show": {
+                "slug": "prehistoric-road-trip",
+                "title": "Prehistoric Road Trip",
+                "season": 1,
+                "episode": 1,
+                "seasons_count": 1,
+                "display_episode_number": true
+            },
+            "summary": "Ep1 | 53m 56s",
+            "ancestor_title": "Prehistoric Road Trip",
+            "ancestor_slug": "prehistoric-road-trip",
+            "ancestor_type": "show",
+            "image": "https://image.pbs.org/video-assets/2aUSKu1-asset-mezzanine-16x9-hOUb9Vl.jpg",
+            "legacy_tp_media_id": 3042364830,
+            "cid": "15285df4-f82f-41f5-a260-f6fe1f8f237e"
+        }
+    ],
+    "title": "Episodes",
+    "title_link": "/show/prehistoric-road-trip/episodes/",
+    "content_filter": 1,
+    "content_type": "episodes",
+    "three_up": 1,
+    "has_next": false,
+    "meta": {
+        "links": {
+            "next": null,
+            "self": "https://content.services.pbs.org/v3/pbsorg/screens/shows/prehistoric-road-trip/seasons/50d04389-5683-4620-85d9-ecdd414d7ae4/episodes/?country_id=US&start=0&limit=24",
+            "prev": null
+        },
+        "duration": "0:00:00.111428"
+    }
+}
