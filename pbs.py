@@ -5,6 +5,7 @@ import pbs
 
 actions = [
     'stations',
+    'station',
     'shows',
     'episodes',
     'seasons',
@@ -28,6 +29,8 @@ def main():
             print(pbs.episodes.list(sys.argv[2:]))
         elif args.action == 'stations':
             print(pbs.stations.list(sys.argv[2:]))
+        elif args.action == 'station':
+            print(pbs.station.show(sys.argv[2:]))
         elif args.action == 'player':
             pbs.player.list(sys.argv[2:])
 
