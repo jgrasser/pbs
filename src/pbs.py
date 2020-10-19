@@ -2,21 +2,21 @@ import rest
 import json
 import time
 
-def episodes(show, season_cid):
+def episodes(show, season_cid, **kwargs):
 
    status, data = rest.client('GET', f'/show/{show}/seasons/{season_cid}/episodes/?start=0&limit=24')
 
-   return data
+   return json.loads(data)
 
 
-def seasons(show):
+def seasons(show, **kwargs):
    
    status, data = rest.client('GET', f'/show/{show}/seasons-list/')
 
-   return data
+   return json.loads(data)
 
 
-def shows():
+def shows(**kwargs):
     graphql = {
         "operationName": "Shows",
         "variables": {

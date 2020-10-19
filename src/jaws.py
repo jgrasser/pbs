@@ -5,7 +5,7 @@ import rest
 import json
 
 
-def station(callsign):
+def station(callsign, **kwargs):
     
     print("Fetching station details for %s" % (callsign.upper()))
     status, output = rest.client('GET', path=f'/localization/false/?callsign={callsign}', host='https://jaws.pbs.org')
@@ -13,7 +13,7 @@ def station(callsign):
     return json.loads(output).get('station', 'Station details not found!')
 
 
-def stations():
+def stations(**kwargs):
 
     output = {}
 
@@ -25,4 +25,4 @@ def stations():
         if status == 200:
             output[code] = json.loads(resp_data)
 
-    return json.dumps(output)
+    return output

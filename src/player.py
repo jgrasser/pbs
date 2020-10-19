@@ -14,7 +14,7 @@ class VideoDataParser(HTMLParser):
                      print (line.split('=')[1].lstrip().rstrip(';'))
 
 
-def portalplayer(legacy_tp_media_id):
+def portalplayer(legacy_tp_media_id, **kwargs):
    
    parser = VideoDataParser()
 
@@ -32,4 +32,4 @@ def portalplayer(legacy_tp_media_id):
    # Restore the old stdout
    sys.stdout = old_stdout
 
-   return o.getvalue()
+   return json.loads(o.getvalue())
